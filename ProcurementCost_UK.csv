@@ -1,0 +1,14 @@
+SUPPLIER,MODE,POSTAGE MODE,POSTAGE COST,PROCUREMENT COST,Buffer,Total,PROFIT MODE,UK% (MIN),UK FIXED (MIN),UK% (IDEAL),UK% (MAX)
+Costco,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Bestway,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Dhamecha,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Tassimo,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Miscellaneous,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+John Pye,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+China-Resell,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+PriceCheck,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Abra Wholesale,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+China-Own Brand,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%
+Nespresso,VARIABLE,PARCEL,0.1,0.06,15.00%,0.07,Percentage,8.50%,NO,11%,25%
+Vertuo,VARIABLE,PARCEL,0.17,0.06,15.00%,0.07,Percentage,8.50%,NO,11%,25%
+TEST,FIXED,PALLET,0.16,0.08,10.00%,0.08,Percentage+Fixed,7.00%,0.6,9%,25%

@@ -1,0 +1,643 @@
+Source,"COMPANY IDENTIFIER OR 
+EAN (13 Digit) OR 
+UNIQUE CODE (10 Digit)",SUPPLIER CODE,HS CODE,Products,packaging time (minutes),"total purchase price 
+(Excluding VAT)",Quantity Purchased,Contents in a Pack,Packs in a Box (moq),Procurement Cost,Purchase VAT (%),Purchase Price Per Unit (ex Vat),Product Specific Procurement Cost
+Tassimo,7622210368423,,,TASSIMO Morning Cafe,,2.9665,1,16,5,0,0,2.97,0
+Tassimo,7622210010605,,,CAFE HAG,,3.1365,1,16,5,0,0,3.14,0
+Tassimo,7622300719401,,,TWININGS EARL GREY,,3.1365,1,16,5,0,0,3.14,0
+Tassimo,7622300477677,,,CARTE NOIRE Cappuccino,,3.3915,1,8,5,0,0,3.39,0
+Tassimo,7622300719418,,,TWININGS FRUITS OF THE FOREST TEA,,3.1365,1,16,5,0,0,3.14,0
+Tassimo,7622300718367,,,TWININGS GREEN TEA AND MINT,,3.1365,1,16,5,0,0,3.14,0
+Tassimo,7622300719487,,,TASSIMO CREAMER FROM MILK,,3.3065,1,16,5,0,0,3.31,0
+Tassimo,SELF8366514823,,,Carte Noire Latte Macchiato,,4.0715,1,8,5,0,0,4.07,0
+Tassimo,7622300456313,,,Carte Noire Latte Macchiato Caramel,,4.0715,1,8,5,0,0,4.07,0
+Tassimo,7622210011152,,,CARTE NOIRE Cafe Long Aromatique,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210011114,,,Carte Noire Cafe Long Delicat,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622300656164,,,Chai Latte,,4.0715,1,8,5,0,0,4.07,0
+Tassimo,SELF8187514270,,,CARTE NOIRE Decaffeinated Espresso,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622300777319,,,COSTA Cappuccino,,2.798,1,8,5,0,0,2.8,0
+Tassimo,7622210098825,,,Costa Caramel Latte,,5.29,1,8,5,0,0,5.29,0
+Tassimo,7622210438386,343930,,Costa Latte,,3.298,1,8,5,0,0,3.3,0
+Tassimo,SELF965753668,,,CARTE NOIRE Expresso,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,SELF1215670292,,,Carte Noire Expresso Intense,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210010513,,,Jacobs Latte Macchiato,,4.0715,1,8,5,0,0,4.07,0
+Tassimo,SELF8418874478,,,Jacobs Medaille Dor,,3.3915,1,8,5,0,0,3.39,0
+Tassimo,7622210452276,,,CARTE NOIRE Petit Dejeuner,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,SELF3436497813,,,Carte Noire Petit Dejeuner XL,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,8711000504833,,,Jacobs Caffe Crema Intenso,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210020055,,,JACOBS Espresso,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210288738,,,Milka Chocolate,,3.65,1,8,5,0,0,3.65,0
+Tassimo,7622210010346,,,JACOBS Monarch,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622300047031,,,KENCO CAFFE CREMA,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622300047030,,,KENCO Americano Smooth,,3.69,1,16,5,0,0,3.69,0
+Tassimo,7622300277802,,,KENCO PURE COLOMBIAN,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210276889,,,TASSIMO Oreo,,3.6465,1,8,5,0,0,3.65,0
+Tassimo,7622300127732,,,SUCHARD HOT CHOCOLATE,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210018069,,,TWININGS Apres-Midi d'Orient,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7612100185001,,,Twinings English Breakfast,,3.3915,1,16,5,0,0,3.39,0
+Tassimo,7622210435682,,,Kenco Americano Grande,,3.6465,1,16,5,0,0,3.65,0
+Tassimo,7622300777388,,,COSTA Americano,,3.79,1,16,5,0,0,3.79,0
+Nespresso,7640156771244,,,Arpeggio,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7640156776393,,,Bukeela ka Ethiopia,,3.7,1,10,20,1,0,3.7,0.07
+Nespresso,7640156771213,,,Capriccio,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7640154062023,,,Caramel Creme Brulee,,4.3,1,10,20,1,0,4.3,0.07
+Nespresso,7640154061804,,,Cocoa Truffle,,4.3,1,10,20,1,0,4.3,0.07
+Nespresso,7640159925552,,,Cosi,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7630030322891,,,Decaffeinato Arpeggio,,3.9,1,10,20,1,0,3.9,0.07
+Nespresso,7640156771350,,,Decaffeinato Intenso,,3.5,1,10,20,1,0,3.5,0.07
+Nespresso,5251120989941,,,Decaffeinato Vivalto Lungo,,3.9,1,10,20,1,0,3.9,0.07
+Nespresso,7630030322976,,,Decaffeinato Volluto,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7640156771497,,,Dharkan,,3.7,1,10,20,1,0,3.7,0.07
+Nespresso,7640140337470,,,Dulsao Do Brazil,,3.7,1,10,20,1,0,3.7,0.07
+Nespresso,7640159924838,,,Fortissio Lungo,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7640140337517,,,Indriya from India,,3.7,1,10,20,1,0,3.7,0.07
+Nespresso,7640156771473,,,Kazaar,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7640154061569,,,Linizio Lungo,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7640156771336,,,Livanto,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7640156771435,,,Ristretto,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7640156771299,,,Roma,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7640156771398,,,Rosabaya de Colombia,,3.7,1,10,20,1,0,3.7,0.07
+Nespresso,7640154061866,,,Vanilla Eclair,,4.3,1,10,20,1,0,4.3,0.07
+Nespresso,7640156771596,,,Vivalto Lungo,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7640156771275,,,Volluto,,3.6,1,10,20,1,0,3.6,0.07
+Nespresso,7630030359729,,,Envivo Lungo,,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,7630030384585,,,Decaf Ristretto,,3.9,1,10,20,1,0,3.9,0.07
+Vertuo,7630039677923,,,Stormio,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039677909,,,Odacio,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039677848,,,Melozio,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039677886,,,ELVAZIO,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039678180,,,Giornio,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039678203,,,Solelio,,5.5,1,10,6,1,0,5.5,0.07
+Vertuo,7630039640958,,,Hazelino Muffin,,6,1,10,6,1,0,6,0.07
+Vertuo,704407757498,,,Caramel Cookie,,6,1,10,6,1,0,6,0.07
+Vertuo,7630039677862,,,Vanilla Custard,,6,1,10,6,1,0,6,0.07
+Vertuo,7630039677947,,,Decaffeinato,,5.7,1,10,6,1,0,5.7,0.07
+Vertuo,7630039678067,,,Fortado,,4.9,1,10,6,1,0,4.9,0.07
+Vertuo,7630039678081,,,Arondio,,4.9,1,10,6,1,0,4.9,0.07
+Vertuo,7630039678104,,,Aflorazio,,4.7,1,10,6,1,0,4.7,0.07
+Vertuo,7630039678128,,,Decaffeinato Ontuoso,,5.1,1,10,6,1,0,5.1,0.07
+Vertuo,7630039677985,,,Diavolitto,,3.9,1,10,9,1,0,3.9,0.07
+Vertuo,7630039678005,,,Altissio,,3.9,1,10,9,1,0,3.9,0.07
+Vertuo,7630039678029,,,Voltesso,,3.9,1,10,6,1,0,3.9,0.07
+Vertuo,7630039678043,,,Decaf Intenso,,4.1,1,10,9,1,0,4.1,0.07
+Vertuo,7630039690113,,,Alto Dolce,,6.7,1,10,6,1,0,6.7,0.07
+Vertuo,7630039690090,,,Alto Intenso,,6.7,1,10,6,1,0,6.7,0.07
+Nespresso,DESCALINGKIT,,,descaling kit,,4.5,1,2,10,0,0,4.5,0
+Nespresso,SELF2293747531,,,Nespresso Wooden Discovery Box Case Display Gift Coffee Storage[Box with 36,,40,1,1,1,1,0,40,0.07
+Nespresso,SELF7744349581,,,NEW Totem Nespresso black coffee Pod Capsule Glass dispenser holder Storage,,20,1,1,1,1,0,20,0.07
+Nespresso,SELF1366190578,,,Discovery Box only,,29,1,1,1,1,0,29,0.07
+Nespresso,SELF8629120215,,,PIXIE TARGET CAPSULE DISPENSER,,46,1,1,1,1,0,46,0.07
+Miscellaneous,SELF5799751781,,,DG Designers Celebrity,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF9728412595,,,DG Celebrity Diamante Stone Design,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF9995366947,,,DESIGNER CELEBRITY SUNGLASSES SHADES,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF4406226717,,,Designer Celebrity WRAP Sunglasses,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF9569388999,,,New Exclusive WRAP Style Young Lady's Girls Designer Celebrity Sunglasses,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF2962427568,,,Dolce & Gabbana ICONIC LOGO (DG4170P 26888G 57),0.33,69.99,1,1,1,0,0.2,69.99,0
+Miscellaneous,SELF197579240,,,Ray-Ban Unisex Sunglasses RB8315 Black (002/82 002/82) One size,0.33,129.99,1,1,1,0,0.2,129.99,0
+Miscellaneous,SELF857003633,,,Ray-Ban Unisex Sunglasses RB8315 Black (002/82 002/82) One size,0.33,5.75,1,1,1,0,0,5.75,0
+Miscellaneous,SELF6283137879,,,DG Ladies Girls Women Celebrity Multi-Coloured Mirror Flash Hot Sunglasses Pink,0.33,5.75,1,1,1,0,0,5.75,0
+John Pye,SELF4929369844,,,BLACK SLIM SILICON PROTECTIVE SKIN FITTED CASE COVER AMAZON KINDLE 4 4G,,1,1,1,1,1,0.2,1,0.08
+Costco,0129931K,129931,,Eat Natural Mixed Box 20 Bars 50gm each,0.33,8.99,1,20,1,1,0.2,8.99,0.08
+Costco,761712012308,,,OttLite LED Desk Lamp with Colour Changing Tunnel and USB Phone Charging Port (Black),0.33,24.99,1,1,1,1,0.2,24.99,0.08
+Costco,7702018349869,,,Gillette Fusion Razor Blades - Pack of 16,0.33,32.388,1,16,1,1,0.2,32.39,0.08
+Costco,37531049536,,,Kamenstein 20 Jar Stainless Steel Rotating Spice Rack by Kamenstein,0.33,19.99,1,1,1,1,0.2,19.99,0.08
+Costco,SELF4980031527,,,"Lindt Lindor Milk Orange Cornet, 200 g (Pack of 2)",0.33,4.98,2,32,2,1,0,2.49,0.08
+Costco,SELF9500838910,,,"Lindt Lindor Hazlenut, 200 g",0.33,2.49,1,16,1,1,0,2.49,0.08
+Costco,SELF2449345812,,,Lindt Teddy & Friends Family pack 400g,0.33,6.49,1,-,1,1,0,6.49,0.08
+Costco,SELF4610908707,,,Delonghi EN520.W Nespresso Lattissima Plus Coffee Maker - White,0.33,119.99,1,1,1,1,0.2,119.99,0.08
+Costco,SELF1531054228,,,"Ferrero Rocher 16-Piece Assortment (Pack of 5, Total 80 pieces)",0.33,12.49,1,80,1,1,0,12.49,0.08
+Costco,SELF9579392982,,,Lindt Lindor Milk Chocolate Cornet 337 g (Pack of 2),0.33,4.98,2,32,2,1,0.2,2.49,0.08
+Costco,SELF4102618547,897270,,Ferrero Rocher 16 Pieces Gift Box 200g,0.33,3.99,1,16,1,1,0.2,3.99,0.08
+Costco,SELF3410033232,,,Lindt Chocolate Assortment Gift Box 155 g,0.33,8,1,-,1,1,0,8,0.08
+Costco,933100,933100,,Philips Sonicare DiamondClean,0.33,83.33,1,1,1,1,0,83.33,0.08
+Costco,224184,224184,,Nature Valley Protein Peanut & Chocolate Gluten Free Cereal Bars 40g (Pack of 26 Bars),0.33,9.99,1,40,1,1,0.2,9.99,0.08
+Costco,184808,184808,,Smart Water,0.33,4.89,1,1,1,1,0,4.89,0.08
+Costco,182289,182289,,Lindt Bunny 500G,0.33,9.588,1,1,1,1,0,9.59,0.08
+Costco,100728,100728,,Royal Dansk Danish Butter Cookies 4 Pound Tin,0.33,9.99,1,1,1,1,0,9.99,0.08
+Costco,SELF4598323345,,,Nature Valley Sweet and Salty Nut Peanut Cereal Bars 30g- Pack of 40,0.33,9.99,1,40,1,1,0.2,9.99,0.08
+Costco,SELF6192920582,,,Costa latte,0.33,9.89,1,5,5,1,0,9.89,0.08
+Costco,SELF5657311330,,,"NESCAFE Dolce Gusto by KRUPS Gusto Mini Me Automatic Play and Select Coffee Capsule Machine, Black/Grey",0.33,19.99,1,1,1,1,0,19.99,0.08
+Costco,SELF7665796756,,,Lindt Lindor Maxi Ball 550 g,0.33,6.99,1,1,1,1,0,6.99,0.08
+Costco,SELF7554267843,,,OttLite LED Desk Lamp with Colour Changing Tunnel and USB Phone Charging Port (White),0.33,19.99,1,1,1,1,0.2,19.99,0.08
+Costco,SELF2842428590,,,Evian Still Mineral Water 500ml case of 24,0.33,7.29,1,1,1,1,0,7.29,0.08
+Costco,8410076600639,,,Nature Valley Crunchy Granola Bars Variety Pack 40 Bars x42gm Big Value pack,0.33,6.49,1,1,1,1,0.2,6.49,0.08
+Costco,8410076600905,163126,,Nature Valley Crunchy Granola Bars Oats 'n' Honey 40 Pack 2 Bars Per Pack,0.33,7.79,1,1,1,1,0.2,7.79,0.08
+Costco,0188383K,188383,,Eat Natural Protein Packed 20 Pack each 45g,0.33,8.99,1,1,1,1,0.2,8.99,0.08
+Costco,5060088704004,,,Nakd Free From Gluten Yummy Mix Multi-pack 24 Bars,0.33,10.3,1,1,1,1,0,10.3,0.08
+Costco,34000449248,34000449248,,"Reese's Peanut Butter Cup Miniatures, 1.58kg",0.33,14.49,1,1,1,1,0,14.49,0.08
+Costco,82651,82651,,Highland Spring Still Water Sports Cap 20 x 750ml …,0.33,3.09,1,1,1,1,0,3.09,0.08
+Costco,227831,227831,,Plantronics BackBeat PRO 2 Mobile Headset,0.33,137.41,1,1,1,1,0,137.41,0.08
+Costco,703840,703840,,Tefal Cook4Me Connect Multi-Cooker,0.33,166.66,1,1,1,1,0,166.66,0.08
+Costco,177536,177536,,Dimplex Cadiz 3KW electric heater,0.33,83.33,1,1,1,1,0.2,83.33,0.08
+Costco,153792,153792,,Dimplex Mont Blanc cooling tower,0.33,38.33,1,1,1,1,0,38.33,0.08
+Costco,233058,233058,,Pure One Midi S3s Portable Digital DAB/DAB+ and FM Radio with Alarm - Jade White,0.33,58.33,1,1,1,1,0,58.33,0.08
+Costco,852710,852710,,Philips HR1852/71,0.33,74.91,1,1,1,1,0,74.91,0.08
+Costco,861630,861630,,Philips GC8616/30,0.33,108.33,1,1,1,1,0.2,108.33,0.08
+Costco,145674,145674,,kidde carbon monoxide alarm,0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Costco,149584,149584,,TORK extra singlefiold hand towel 15x200,0.33,18.79,1,15,1,1,0.2,18.79,0.08
+Costco,233900,233900,,Otlite lamp,0.33,15.99,1,1,1,1,0.2,15.99,0.08
+Costco,239113,239113,,brother QL700,0.33,34.99,1,1,1,1,0.2,34.99,0.08
+Costco,87840,332944,,TORK wiping plus Blue,0.33,9.59,1,6,1,1,0.2,9.59,0.08
+Costco,87839,87839,,TORK wiping plus White,0.33,11.79,1,6,1,1,0.2,11.79,0.08
+Costco,90728,90728,,velvet quilted rolls,0.33,11.19,1,24,1,1,0.2,11.19,0.08
+Costco,192092,192092,,SousVide Supreme Water Oven,0.33,249.91,1,1,1,1,0.2,249.91,0.08
+Costco,600540,600540,,Krups Nescafe Dolce Gusto Movenza Coffee Machine - Silver,0.33,39.97,1,1,1,1,0.2,39.97,0.08
+Costco,5533666,5533666,,over and black porcelin serving bowls,0.33,9.99,1,1,1,1,0,9.99,0.08
+Costco,241218,241218,,clearly lock and lock,0.33,18.99,1,1,1,1,0,18.99,0.08
+Costco,197387,197387,,ferrreo rocher grand,0.33,5.49,1,1,1,1,0,5.49,0.08
+Costco,143130,143130,,galaxy instant hot choclate,0.33,3.99,1,1,1,1,0,3.99,0.08
+Dhamecha,SELF2240649376,,,wrigles airwaves blackmint x30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF3318774751,,,wrigles extra ice x30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF4989068787,,,wrigles extra ice bubblegam x 30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF4190361031,,,wrigles extra ice supermint x30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF5628146211,,,wrigles airways blackwrent x30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF1385295442,,,Juicy fruit x14,0.33,3.15,14,14,1,1,0,0.23,
+Dhamecha,SELF9048052629,,,wrigles extra white x30,0.33,8.55,30,30,1,1,0,0.29,
+Dhamecha,SELF7897068743,,,rubicon 330ml x24,0.33,6.49,24,24,1,1,0,0.27,
+Dhamecha,SELF5030930373,,,redbull 473ml x 12,0.33,11.89,12,12,1,1,0,0.99,
+Dhamecha,SELF7835328432,,,monster energy 12 x 500ml,0.33,4.92,12,12,1,1,0,0.41,
+Dhamecha,SELF5949205742,,,monster energy green 24 x 500ml,0.33,10.08,24,24,1,1,0,0.42,
+Dhamecha,SELF5327604874,,,Kinder Bueno Chocolate (10 x 43g),0.33,2.49,10,10,1,1,0,0.25,
+Dhamecha,SELF5386267418,,,old jamica beer 24 x 330ml,0.33,5.99,24,24,1,1,0,0.25,
+Dhamecha,SELF1314537786,,,Deodrant (x3),0.33,3.87,3,3,1,1,0,1.29,
+Dhamecha,SELF4791501383,,,Brylcream original x 6,0.33,,6,6,1,1,0,0,
+Dhamecha,SELF898653927,,,VO5 Extreme Style TEXTURE Rework Fibre Putty 3 x 150ml Pack,0.33,5.99,3,3,1,1,0,2,
+Nespresso,SELF8835499533,,,nespresso Decaffeinato,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF6674788380,,,Decaffeinato Lungo,,3.5,1,10,20,1,0,3.5,0.07
+Nespresso,SELF1464305964,,,Intenso on Ice,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF2101152631,,,Leggero on Ice,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF7377943352,,,Milano,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF4356996977,,,Monsoon Malabar,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF3459016729,,,Orangette,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF7064001792,,,Palermo,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF6595041339,,,Peru Secreto,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF8826991668,,,Snowball,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF782506844,,,Vanilla Amaretti,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF3367035761,,,Vanilla Cardomom,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF1620313391,,,Licorice,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,SELF859747482,,,arocino milk forther 3,,25,1,1,1,1,0.2,25,0.07
+Nespresso,SELF5938204585,,,arocino milk forther 4,,25,1,1,1,1,0.2,25,0.07
+Nespresso,SELF2555579878,,,cafezinho de Brazil,,4.1,1,10,20,1,0,4.1,0.07
+Ebay,SELF2865365473,,,4.2Kw Portable Butane Fire Calor Gas,,60,1,1,1,0,0.2,60,0
+Nespresso,SELF5055547068,,,Pure Glasses,,16,1,2,1,1,0.2,16,0.07
+Nespresso,SELF186501713,,,Pixie Stirrers,,14,1,6,1,1,0,14,0.07
+Vertuo,SELF6215371813,,,Double Espresso Chairo,,4.9,1,10,6,1,0,4.9,0.07
+Vertuo,SELF6982204001,,,DOUBLE ESPRESSO SCURO,,4.9,1,10,6,1,0,4.9,0.07
+Costco,242377,242377,,Joseph Joseph Chopping Board,0.33,24.99,1,1,1,1,0.2,24.99,0.08
+Costco,244319,244319,,YANKEE CANDLE VANILLA DIFFUSER,0.33,14.99,2,2,2,1,0.2,7.5,0.08
+Costco,249641,249641,,FAIRY PLATINUM DISHWASHER 70 TABLETS,0.33,6.99,1,70,1,1,0.2,6.99,0.08
+Costco,218916,218916,,GODZILL STRONG TAPE,0.33,9.99,2,2,1,1,0.2,5,0.08
+Costco,242193,242193,,royal doulton glasses,0.33,19.99,1,1,1,1,0,19.99,0.08
+Costco,0244319-1,0244319-1,,yanKEE CANDLE fluffy towels diffuser,0.33,7.5,1,1,2,1,0.2,7.5,0.08
+Costco,108604,108604,,Ozkleen Bath Power bathroom cleaner,0.33,2.49,3,3,6,1,0.2,0.83,0.08
+Costco,018604-1,018604-1,,Ozkleen multi surface power natural cleaner,0.33,2.49,3,3,6,1,0.2,0.83,0.08
+Costco,93589,93589,,Dettol liquid chloroxylenol 4L,0.33,10.99,1,1,6,1,0.2,10.99,0.08
+Costco,213808,213808,,Vanish Gold oxi action,0.33,2.97,1,1,1,1,0.2,2.97,0.08
+Costco,170693,170693,,"Finish Dishwasher Cleaner 250ml 4 Pack, 5X Power Actions,Lemon Sparkle Cleaning",0.33,6.99,4,4,4,1,0.2,1.75,0.08
+Costco,707373,707373,,Ziploc Space Bag,0.33,16.99,1,1,1,1,0.2,16.99,0.08
+Costco,315848,315848,,Brabantia toch bin,0.33,79.99,1,1,1,1,0.2,79.99,0.08
+Costco,1650033,1650033,,The Tommy Bahama Back Pack Beach Chair,0.33,21.99,1,1,1,1,0.2,21.99,0.08
+Costco,232224,232224,,olde thompson spice rack,0.33,19.99,1,1,1,1,0.2,19.99,0.08
+Costco,92870,92870,,nescafe gold cappuccino 50 sachets,0.33,9.19,1,1,1,1,0,9.19,0.08
+Costco,157104,157104,,Kinder Surprise Egg 20 g (Pack of 48),0.33,28.89,1,1,1,1,0.2,28.89,0.08
+Costco,172103,172103,,Lenor Wild Flower concentrate 4L,0.33,6.49,1,1,1,1,0.2,6.49,0.08
+Costco,172084,172084,,Lenor Spring Awakening 5L,0.33,6.89,1,1,1,1,0.2,6.89,0.08
+Costco,45912,45912,,3M Lint Roller 4PK,0.33,5.99,1,1,1,1,0,5.99,0.08
+Costco,206419,206419,,Gourmet Perle 60pk cat food purina,0.33,13.99,1,1,1,1,0.2,13.99,0.08
+Costco,34548,34548,,Tobasco Sauce 350ml,0.33,5.19,1,1,1,1,0,5.19,0.08
+Costco,72664,72664,,Post-it notes pk 24,0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Costco,180198,180198,,PG Extra Strong 6x80,0.33,9.99,1,1,1,1,0,9.99,0.08
+Costco,29319,29319,,Kenco Decaff Coffee 500g,0.33,13.29,1,1,1,1,0,13.29,0.08
+Costco,164410,164410,,Kenco Millicano 500g,0.33,10.99,1,1,1,1,0,10.99,0.08
+Costco,105764,105764,,milk Creamer x120,0.33,3.95,1,1,1,1,0,3.95,0.08
+Costco,242718,242718,,Sheba 40x85g Cat food,0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Costco,83387,83387,,a4 Spiral Pukka Pad 6pack,0.33,8.99,6,6,1,1,0.2,1.5,0.08
+Costco,73375,73375,,Coffee Mate 1kg,0.33,3.39,1,1,1,1,0,3.39,0.08
+Costco,21156,21156,,Tetley Bags 3x240 bags,0.33,9.99,3,3,1,1,0,3.33,0.08
+Costco,100649,100649,,Lavazza 500g,0.33,4.49,1,1,1,1,0,4.49,0.08
+Costco,96871,96871,,RCD 100 Bin Liner white,0.33,5.69,1,1,1,1,0.2,5.69,0.08
+Costco,139465,139465,,Lavazza Beans 1kg,0.33,8.99,1,1,1,1,0,8.99,0.08
+Costco,47279,47279,,Options belgian choclate 825g,0.33,5.89,1,1,1,1,0,5.89,0.08
+Costco,4719,4719,,marmite 600g,0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,120707,120707,,Jacobs Douwe Egberts 750g R/RST,0.33,11.99,1,1,1,1,0,11.99,0.08
+Miscellaneous,SELF3095374511,,,Corsair CP-9020047-UK Builder Series CX500 ATX/EPS 80 PLUS Bronze Power Supply Unit 500 W,0.33,35,1,1,1,0,0.2,35,0
+Miscellaneous,SELF2552756331,,,Delonghi EN750.MB Nespresso Lattissima Pro,0.33,300,1,1,1,1,0.2,300,0.08
+Miscellaneous,SELF5559701590,,,De'Longhi Nespresso EN550.B Lattissima Touch Automatic Coffee Machine - Black,0.33,200,1,1,1,1,0.2,200,0.08
+Miscellaneous,SELF9792779463,,,Delonghi EN520.R Nespresso Lattissima Plus Coffee Maker - Red,0.33,150,1,1,1,1,0.2,150,0.08
+Costco,SELF6273795763,,,Tassimo Carte Noire Latte Macchiato Caramel Coffee 16 T DISCs/pods,0.33,15.99,5,5,1,1,0,3.2,0.08
+Costco,SELF8994291553,,,Costa Latte,0.33,15.99,5,5,1,1,0,3.2,0.08
+Miscellaneous,SELF1441266393,,,Delonghi EN520.W Nespresso Lattissima Plus Coffee Maker - White,0.33,150,1,1,1,1,0,150,0.08
+Costco,208690,208690,,Keter Cozy Pet,0.33,37.99,1,1,1,1,0.2,37.99,0.08
+Costco,172091,172091,,Fairy fabric softener 4.8L,0.33,5,1,1,1,1,0.2,5,0.08
+Costco,74017,74017,,skippy smooth peanut butter 1.13 kg,0.33,5.89,1,1,1,1,0,5.89,0.08
+Costco,825072,825072,,skipy super crunch butter 1.13 kg,0.33,5.89,1,1,1,1,0,5.89,0.08
+Costco,175043,175043,,Maxwell house cappuccino 750 gm,0.33,5.49,1,1,1,1,0,5.49,0.08
+Costco,205950,205950,,queen bee Manuka Honey x2,0.33,19.99,2,2,1,1,0,10,0.08
+Costco,90907,90907,,Hershey's Chocolate Milk - 21 x 236ml,0.33,10.29,1,1,1,1,0,10.29,0.08
+Costco,11773,11773,,Rowse Set Honey 1.36kg,0.33,5.69,1,1,1,1,0,5.69,0.08
+Costco,224328,224328,,ASPIRE Mango Lemonade Healthy Energy x 12,0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,83934,83934,,Pot noodles Chicken x12,0.33,5.89,1,1,1,1,0,5.89,0.08
+Costco,171370,171370,,Kellogg's 42 Nutri-Grain Mixed Fruity Breakfast Bars,0.33,7.99,1,1,1,1,0,7.99,0.08
+Dhamecha,SELF6241869930,,,"Rubicon Sparkling Mango Juice Drink Bottles, 500ml - Pack of 12",0.33,5.99,1,1,1,1,0.2,5.99,0.08
+Dhamecha,SELF5000542392,,,Vita Coco 100% Natural Coconut Water 330ml (Pack of 12),0.33,7.49,1,1,1,1,0.2,7.49,0.08
+Miscellaneous,SELF1354483829,,,Dremel 3000-15 Multitool,0.33,37.76,1,1,1,1,0.2,37.76,0.08
+Dhamecha,SELF4889184509,,,"Walkers Quavers Cheese Snacks, 20 g, Pack of 32",0.33,8.39,1,1,1,1,0.2,8.39,0.08
+Dhamecha,SELF8625537679,,,"Walkers Wotsits Really Cheesy Snacks, 22.5 g, Pack of 32",0.33,8.39,1,1,1,1,0.2,8.39,0.08
+Costco,SELF7668264966,276804,,Ariel 3-in-1 Pods Colour and Style - Washing Liquid Capsules - 114 Washes x3,0.33,13.29,2,2,1,1,0.2,6.65,0.08
+Costco,SELF8412125824,276817,,Ariel 3-in-1 Pods Original - Washing Liquid Capsules - 114 Washes,0.33,14.79,1,1,1,1,0.2,14.79,0.08
+Nespresso,7630039655211,,,Nespresso Descaling Kit,,9,1,1,1,1,0.2,9,0.07
+Vertuo,SELF9792126228,,,Intenso,,5.5,1,1,6,1,0,5.5,0.07
+Nespresso,7630039695187,,,India,,4.1,1,1,20,1,0,4.1,0.07
+Nespresso,7630039695668,,,Colombia,,4.1,1,1,20,1,0,4.1,0.07
+Nespresso,7630039695569,,,Ethiopia,,4.1,1,1,20,1,0,4.1,0.07
+Nespresso,7630039695460,,,Nicaragua,,4.1,1,1,20,1,0,4.1,0.07
+Nespresso,7630039695088,,,Indonesia,,4.1,1,1,20,1,0,4.1,0.07
+Vertuo,SELF5503179821-OTHER,,,MIX Box Vertuo,,26,6,6,6,1,0,4.33,0.07
+Nespresso,SELF6826409705-OTHER,,,MIX Box Nespresso,,66,20,20,20,1,0,3.3,0.07
+Vertuo,SELF7129259557,,,Vertuo Colombia,,6,1,1,6,1,0,6,0.07
+Vertuo,SELF4734701380,,,Vertuo Mexico,,6,1,1,6,1,0,6,0.07
+Vertuo,VERTUO_SPECIAL_EDITION,,,Vertuo Special Edition,,6,1,1,6,1,0,6,0.07
+Nespresso,SELF4709655116,,,Nespresso Temp Master Origin,,3.3,1,1,20,1,0,3.3,0.07
+Nespresso,SELF8634027642,,,Nespresso Glass Cappuccino Cup & Saucer,,21,1,1,2,1,0.2,21,0.07
+Dhamecha,SELF674422250,,,Walkers Crisp Ready Salted 32.5g Bags (box of 32),0.33,8.39,1,1,32,1,0,8.39,0.08
+Nespresso,SELF250976028,,,Nespresso Espresso Glass View Collection x2,,16,1,1,2,1,0.2,16,0.07
+Nespresso,SELF8849370419,,,Nespresso Espresso Cups black in porcelin,,15,1,1,2,1,0.2,15,0.07
+Costco,SELF9363944766,197387,,Ferrero Rocher Luxury Boxed Egg,0.33,5.99,1,1,1,1,0,5.99,0.08
+Costco,SELF5496404670,,,Braun Series 7 Electric Shaver for Men 7898cc,0.33,79,1,1,1,1,0.2,79,0.08
+Nespresso,SELF2686122511,,,Nespresso View Ristretto Espresso Cups,,20,1,1,1,1,0.2,20,0.07
+Nespresso,SELF3136313885,,,Pixie Vivalto Lungo,,22,1,1,1,1,0.2,22,0.07
+Nespresso,SELF5558759453,,,Lungo Cups & Saucers,,19,1,1,1,1,0.2,19,0.07
+Dhamecha,SELF121456010,,,Wotsits Cheesy Grab Bag (30 packs per box),0.33,8,1,1,1,1,0,8,0.08
+Nespresso,SELF2215614785,,,NESPRESSO COFFEE CAPSULE STORAGE CUBE,,22,1,1,1,1,0.2,22,0.07
+Nespresso,SELF9400792415,,,"Nespresso Vertuo Plus & Milk, Silver finish by Magimix - 11388",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF6247406126,,,"Nespresso Citiz Coffee Machine, Black by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF3507508030,,,"Nespresso Citiz Milk Coffee Machine and Frother, Black by Magimix",,80,1,1,1,1,0.2,80,0.07
+Nespresso,SELF2405717338,,,"Nespresso by Krups Essenza Mini Coffee Machine with Aeroccino, Plastic, 1200 W, 0.6 Litres Volume Capacity, White",,80,1,1,1,1,0.2,80,0.07
+Nespresso,SELF2576952645,,,"Nespresso Essenza Mini Coffee Machine, Black by Krups New Model",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF3016128584,,,"Nespresso Essenza Mini Coffee Machine, Ruby Red Finish by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF9129294332,,,"Nespresso Essenza Mini Coffee Machine with Aeroccino, Ruby Red by Magimix",,80,1,1,1,1,0.2,80,0.07
+Nespresso,SELF6773924432,,,"Nespresso Vertuo Plus & Milk, Black finish by Magimix - 11387",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF6224683722,,,"Nespresso Essenza Mini Coffee Machine with Aeroccino, Pure White by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF4842134811,,,"Nespresso Inissia Coffee Machine with Aeroccino, Black by Magimix",,80,1,1,1,1,0.2,80,0.07
+Nespresso,SELF3050442405,,,"Nespresso Inissia Coffee Capsule Machine, White by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF2947983803,,,Cube Capsule Dispenser Nespresso - Glass Collection,,10,1,1,1,1,0.2,10,0.07
+Nespresso,SELF4216369010,,,Nespresso Citiz and Milk Coffee Machine White by Magimix,,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF5087841960,,,"Nespresso Inissia Coffee Capsule Machine with Aeroccino, White by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF2992949492,,,Nespresso Capsule Holder for 50 Capsules Cube,,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF5176374453,,,Nespresso Double Wall Travel Mug - Citiz Touch (345ml),,10,1,1,1,1,0.2,10,0.07
+Nespresso,SELF2463053434,,,"Nespresso Essenza Mini Coffee Machine, Lime Green finish by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF4802511829,,,"Nespresso XN740540 Nespresso Citiz Coffee Machine, 1260 W, Cherry Red by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF4669372868,,,"Nespresso Essenza Mini Coffee Machine, Pure Black Finish by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF9838516445,,,"Nespresso Essenza Mini Coffee Machine with Aeroccino, Black by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF2542546724,,,"Nespresso Essenza Mini Coffee Machine, Grey by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF7370186993,,,"Bar Sets by Royal Doulton Decanter and 6 Tumbler Glasses, Set of 7",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF3922430707,,,"Nespresso Essenza Mini with Aeroccino Coffee Machine, Lime Green by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF3180853765,,,"Nespresso Vertuo Plus Coffee Machine, Red Finish by Magimix (RED)",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF4179724054,,,"Nespresso Inissia Coffee Capsule Machine, Ruby Red by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF349112109,,,"Nespresso Inissia Coffee Machine, Black by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF7402991489,,,"Nespresso Essenza Mini Coffee Machine, White by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF7633438560,,,"Nespresso Essenza Mini Coffee Machine with Aeroccino, Pure Black by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF5856259364,,,"Nespresso by Krups Essenza Mini Coffee Machine with Aeroccino, Plastic, 1200 W, 0.6 Litres Volume Capacity, Grey",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF6904412806,,,"Nespresso Essenza Mini Coffee Machine, Pure White Finish by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF8931582676,,,"Nespresso XN740B40 Citiz Coffee Machine, 1710 W, Silver by Krups",,40,1,1,1,1,0.2,40,0.07
+Nespresso,SELF4282783649,,,"Nespresso Vertuo Plus Coffee Machine, Red Finish by Magimix",,40,1,1,1,1,0.2,40,0.07
+Nespresso,7630047675904,,,Barista Chiaro,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,7630054457104,,,Barista Scuro,,4.1,1,10,20,1,0,4.1,0.07
+Nespresso,7630047675805,,,Barista Corto,,4.1,1,10,20,1,0,4.1,0.07
+Vertuo,SELF8992208499,,,Bianco Forte,,6,1,10,6,1,0,6,0.07
+Vertuo,SELF7565060934,,,Bianco Leggero,,4.9,1,10,6,1,0,4.9,0.07
+Vertuo,SELF4905530679,,,Half Caffeinato,,5.7,1,10,6,1,0,5.7,0.07
+Nespresso,SELF8155764730,,,Napoli,,3.6,1,10,20,1,0,3.6,0.07
+Costco,7622210370167,,,Cadbury drinking chocolate,0.33,3.99,1,1,1,1,0,3.99,0.08
+Costco,SELF220392025,247253,,Café Express Plastic Salad Food Reusable Containers + Lids Pack of 50,0.33,6.79,1,1,1,1,0.2,6.79,0.08
+Costco,SELF3162097361,161309,,4 Turkey foil Trays + 8 Roasting foil trays,0.33,4.69,1,1,1,1,0.2,4.69,0.08
+Costco,SELF5900837706,121900,,Jena Large foil trays with Lids pack of 12,0.33,3.69,1,1,1,1,0.2,3.69,0.08
+Costco,SELF1410300809,331779,,Scotch Brite Sponge pack of 24,0.33,4.49,1,1,1,1,0.2,4.49,0.08
+Costco,SELF7558043137,304898,,Kenco Latte Instant Coffee 750g,0.33,6.99,1,1,1,1,0,6.99,0.08
+Costco,SELF8570225242,,,Jacob's Biscuits for Cheese 900g,0.33,4.79,1,1,1,1,0,4.79,0.08
+Costco,SELF8043758421,331870,,Disposable Tumblers pack of 100,0.33,3.99,1,1,1,1,0.2,3.99,0.08
+Miscellaneous,SELF5233959978,,,Thrustmaster T80 Racing Wheel (PS4/PS3),0.33,41.67,1,1,1,1,0.2,41.67,0.08
+Nespresso,SELF1857284227,,,Nespresso Syrup,,5,1,1,1,1,0,5,0.07
+Nespresso,SELF9117861748,,,Aeroccino Frother 3 Black / Silver / Red / White,,30,1,1,1,1,0.2,30,0.07
+Dhamecha,SELF680380083,,,Red Bull Energy Drink 12 Pack of 473 ml,0.33,8,1,1,1,1,0.2,8,0.08
+Costco,SELF5091395370,,,"Helix by Royal Doulton 6 Fine Crystal Cha,mpagne Flutes 210ml",0.33,20,1,1,1,1,0.2,20,0.08
+Costco,SELF6339983140,,,"Ferrero Grand Rocher Chocolate, 240 g",0.33,5.99,1,1,1,1,0.2,5.99,0.08
+Dhamecha,SELF3068691708,,,Halls Mentho Throat Lozenges Stick 33.5g pack of 20,0.33,5,1,1,1,1,0.2,5,0.08
+Miscellaneous,SELF3502045122,,,So there's this girl who stole my heart and changed my name to MUMMY Quote Bangle,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Costco,82036,82036,,Nappy sacks jumbo box 4*200 pk,0.33,5.49,1,200,1,1,0.2,5.49,0.08
+Miscellaneous,SELF9549013539,,,Grandmother Message Bangle,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Costco,SELF4633967334,,,ARTLAND Simplicity Trifle Bowl,0.33,14.99,1,1,1,1,0.2,14.99,0.08
+Miscellaneous,SELF5841195094,,,Sterlina Milano Sentimental Bangle Good Friends are Like Angels.You Don't Have to See Them to Know They are There Rosegold Plated,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Miscellaneous,SELF441232241,,,Love The Links Silver Far Away Thoughts Quote Message Bangle Bracelet,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Miscellaneous,SELF2890889103,,,Rue B So There's This Man. Quote Bangle: So There's This Man who Stole My Heart and Changed My Name to MRS,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Miscellaneous,SELF6605862811,,,Rue B Star Charm Fill Your Life with Joy.Harmony.Peace.Dreams Quote Charm Bangle,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Miscellaneous,SELF6568310053,,,Rue B Sisters Quote Bangle: Sisters Share a Special Bond That Lasts a Lifetime,0.5,2.99,1,1,1,1,0.2,2.99,0.08
+Nespresso,SELF3679979268,,,"View Set of 2 Glass Mugs for Espresso, Tea, Latte, Cappuccino Drink (ca. 270 ml)",,10,1,1,1,1,0.2,10,0.07
+China-Own Brand,649754458974,HCRC40R,7323990000,40 Nespresso Pod Holder,0.33,7.2,1,1,1,1,0.2,7.2,0.08
+China-Own Brand,649754234141,HCRC40A,7323990000,40 Nespresso Pod Holder,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754297320,HCRC36J,7323990000,36 Nespresso Pod Holder,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754090181,HCRC40RN,7323990000,40 Nespresso Pod Holder,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754183661,HCRCP37C,7323990000,60 Nespresso Pod Drawer,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754165438,YZ1320,7323990000,36 Dolce Gusto Pod Drawer,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754217465,YZ1383,7323990000,36 Dolce Gusto Pod Drawer,0.33,,1,1,1,1,0.2,0,0.08
+China-Own Brand,649754145201,HCRC51P,7323990000,36 Nespresso Pod Drawer,0.33,,1,1,1,1,0.2,0,0.08
+Nespresso,SELF6800561328,,,Venezia,,3.6,1,1,1,1,0,3.6,0.07
+Vertuo,SELF2197459578,,,Vertuo Costa Rica,,5.1,1,10,6,1,0,5.1,0.07
+Vertuo,SELF2197459579,,,Vertuo Ethiopia,,5.1,1,10,6,1,0,5.1,0.07
+Nespresso,NESPRESSO_SPECIAL_EDITION,,,Nespresso Special Edition,,4.2,1,10,6,1,0,4.2,0.07
+Bestway,SELF8544662426,650849,,Fruittella Sour 41g x 40,0.33,12.69,1,1,1,1,0,12.69,0.08
+Bestway,SELF9541849953,719956,,Kinder Chocolate with Cereals 23.5g Case of 40,0.33,8.19,1,1,1,1,0.2,8.19,0.08
+Bestway,SELF4953079304,154381,,Kinder Happy Hippo Milk and Hazelnut Biscuit 20 g (Pack of 28)Kinder Happy Hippo Milk and Hazelnut Biscuit 20 g (Pack of 28),0.33,9.69,1,1,1,1,0,9.69,0.08
+Bestway,SELF6150991994,686811,,( 32 Pack ) Snickers Duo 2 x 41.7g (83.4g),0.33,0.23,1,1,1,1,0.2,0.23,0.08
+Bestway,SELF2933863751,21348,,MARS® Duo 32x2x39.4g,0.33,14.99,1,1,1,1,0.2,14.99,0.08
+Bestway,SELF7743695913,619290,,Cadbury Roses 187g,0.33,2.19,1,1,1,1,0.2,2.19,0.08
+Bestway,SELF3874495915,619311,,Cadbury Roses 290g,0.33,2.85,1,1,1,1,0.2,2.85,0.08
+Bestway,SELF9680477486,715055,,Full Box of GALAXY Standard Chocolate Bars (GALAXY Smooth Milk (24 x 42g)),0.33,8.99,1,1,1,1,0.2,8.99,0.08
+Bestway,SELF3238858251,464,,"Kinder Bueno Chocolate Bars, 43 g, Pack of 30",0.33,16.99,1,1,1,1,0.2,16.99,0.08
+Costco,SELF6709133358,162928,,"Quaker Oat So Simple Original Porridge Sachets, 60 x 27 g",0.33,5.49,1,1,1,1,0,5.49,0.08
+Costco,SELF2725697320,204153,,McVities Everyday Selection Biscuits - 1 x 5 Packs,0.33,3.99,1,1,1,1,0,3.99,0.08
+Costco,SELF8368751852,134596,,"Nature's Heart Chia Seeds, Vegan, Gluten-Free 1 x 1kg",0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,SELF4415345286,191628,,Organic Cacao Powder 567g,0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,SELF1907428586,218771,,( 8 Pack ) Batchelors Super Noodles Chicken Flavour 100g,0.33,3.79,1,1,1,1,0,3.79,0.08
+Costco,SELF1531040245,1489,,"John West Tuna Chunks in Brine, 1.7 Kg",0.33,5.99,1,1,1,1,0,5.99,0.08
+Costco,SELF717602322,35000,,Nescafé Gold Blend Instant Coffee 750G,0.33,17.99,1,1,1,1,0,17.99,0.08
+Costco,SELF2705898994,247831,,Nutella B-Ready x 15 Bars,0.33,3.99,1,1,1,1,0,3.99,0.08
+Costco,SELF8861561169,28218,,"Filippo Berio Extra Virgin Olive Oil, 5L",0.33,17.99,1,1,1,1,0,17.99,0.08
+Miscellaneous,SELF6976448644,,,BG-Look Back (Imperfect),0.33,2.99,1,1,1,0,0.2,2.99,0
+Costco,SELF6611861439,295653,,Nando's perinaise Mild (Peri-Peri Mayonnaise) Large Twin Pack 2x465g,0.33,3.99,1,1,1,1,0,3.99,0.08
+Costco,SELF5329825196,76051,,Appletiser 12 x 275ml,0.33,5.99,1,1,1,1,0.2,5.99,0.08
+Costco,SELF8994266796,87984,,"Chinet 24cm Disposable Microwave Plates, 60 Pack",0.33,4.99,1,1,1,1,0.2,4.99,0.08
+Costco,SELF3073645369,3296,,JENA 100 Pack Disposable 250ml/500ml Strong Plastic Tumblers (250 ml),0.33,2.69,1,1,1,1,0.2,2.69,0.08
+Costco,SELF7118121306,3258,,"Ferrero Rocher Chocolate Gift Box, 5 x 16, 80 Chocolates",0.33,12.99,1,1,1,1,0.2,12.99,0.08
+Costco,SELF3966864074,91759,,"Duni Napkins, White, 33cm",0.33,3.19,1,1,1,1,0.2,3.19,0.08
+Costco,SELF4906224330,98969,,"Emerge Energy Drink Multipack 24 x 250ml Cans (Original, 1 Crate)",0.33,3.66,1,1,1,1,0.2,3.66,0.08
+Costco,SELF6419090176,270812,,Cadbury Heroes Christmas Chocolate Advent Calendar 230g,0.33,2.89,1,1,1,1,0.2,2.89,0.08
+Nespresso,SELF3654762798,,,Nespresso Nomad Iced Coffee Bottle 350 ml,,10,1,1,1,1,0.2,10,0.07
+Bestway,SELF1603147610,186750,,"Huggies Pure Extra Care Baby Wipes, 6 x 56 wipes",0.33,4.19,6,6,1,1,0.2,0.7,0.08
+Bestway,SELF7845128939,550894,,Kinder Happy Hippo Milk Chocolate and Hazelnut Biscuits Multipack 5 x 20.7g,0.33,11.59,1,1,1,1,0,11.59,0.08
+Bestway,SELF8391547190,642373,,"Johnson's Baby Extra Sensitive Baby Wipes, 12 Packs (Total 672 Wipes)",0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Costco,SELF164077575,,,Tetley Extra Strong Tea Bags 75 per Pack - Pack of 6,0.33,8.99,1,1,1,1,0,8.99,0.08
+Costco,SELF4862543332,,,"Starbucks Coffee Company Ceramic Coffee Mugs, 4 Pack, 404ml, 14oz",0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Costco,SELF7842795790,53555,,Matilde Vicenzi Verona Assorted Italian Creme Pastries Biscuits Gift Tin Set - 907 g,0.33,5.99,1,1,1,1,0,5.99,0.08
+Costco,SELF6136393844,828147,,Schwartz Whole Bay Leafs - 27gm,0.33,1.49,1,1,1,1,0,1.49,0.08
+Costco,SELF8005373854,827334,,Schwartz for Chef Mixed Herbs (1 x 100g),0.33,1.69,1,1,1,1,0,1.69,0.08
+Costco,SELF8658564422,123340,,"Quaker Porridge Oats, 1.5 kg",0.33,2.2,1,1,1,1,0,2.2,0.08
+Costco,SELF4227372254,306649,,"Kellogg's Crunchy Nut Original Cereal, 840g",0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,SELF9335335515,303488,,10 x rectangular black plastic platters (46x30cm) by sabert,0.33,4.89,1,1,1,1,0.2,4.89,0.08
+Costco,SELF1487114897,124232,,Douwe Egberts Pure Gold Instant Coffee 400g,0.33,9.99,1,1,1,1,0,9.99,0.08
+Costco,SELF5980550331,827341,,Schwartz Thyme - 165gm,0.33,2.89,1,1,1,1,0,2.89,0.08
+Costco,SELF7542341600,175090,,Kellogg's Corn Flakes 2x1kg,0.33,5.29,1,1,1,1,0,5.29,0.08
+Costco,SELF126882579,335909,,"Dorset Cereals Simply Nutty Muesli, 560g",0.33,1.32,1,1,1,1,0,1.32,0.08
+Nespresso,SELF7432003687,,,"De'Longhi Lattissima, Single Serve Capsule Coffee Machine, Automatic Frothed Milk, Cappuccino and Latte, EN560.B, Black",,120,1,1,1,1,0.2,120,0.07
+Costco,SELF9165691749,,,"Shark Cordless Handheld Vacuum Cleaner [WV251UK] Twin Battery, Grey",0.33,70,1,1,1,1,0.2,70,0.08
+Costco,SELF7731598002,,,"Yankee Candle Signature Reed Diffuser, Vanilla Satin, 88ml, Up to 8 Weeks of Fragrance",0.33,20,1,1,1,1,0.2,20,0.08
+Costco,SELF7467116202,,,Nutella B-Ready x 15 Bars,0.33,3.5,1,1,1,1,0.2,3.5,0.08
+Dhamecha,SELF8686385640,,,Walkers Crisp Ready Salted 32.5g Bags (Box of 32),0.33,11.5,1,1,1,1,0,11.5,0.08
+Costco,SELF1305529828,,,"Shark Cordless Handheld Vacuum Cleaner [WV200UK] Single Battery, Grey",0.33,79,1,1,1,1,0.2,79,0.08
+Nespresso,SELF5583720242,,,"Nespresso Pixie Coffee Machine, Electric Red by Krups",,60,1,1,1,1,0.2,60,0.07
+Nespresso,SELF4898565839,,,"Nespresso EN550.B Lattissima Touch Automatic Coffee Machine, Black",,120,1,1,1,1,0.2,120,0.07
+Costco,SELF3086617024,,,"Braun Series 7 Electric Shaver for Men 7898cc Wet and Dry Integrated Precision Trimmer Rechargeable and Cordless Razor with CleanandCharge Station and Premium Travel Case Silver, 2 pin plug",0.33,75.99,1,1,1,1,0.2,75.99,0.08
+Nespresso,SELF5507857679,,,"De'Longhi Lattissima One, Single Serve Capsule Coffee Machine, Automatic frothed milk, Cappuccino and Latte, EN500.W, White",,120,1,1,1,1,0.2,120,0.07
+Costco,SELF1990167271,,,Ariel Colour All-in-1 Pods Washing Liquid Capsules - 105 Capsules,0.33,13.29,1,1,1,1,0.2,13.29,0.08
+Costco,SELF2717131884,332943,,TORK BASIC C/FEED WHITE 6X150M 2PLY,0.33,9.59,1,1,1,1,0.2,9.59,0.08
+Costco,SELF2366235437,,,Nestle Kitkat Chunky Peanut Butter 42g (Pack of 24),0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Costco,SELF3339299070,,,Cadbury Fingers Milk Chocolate 114g x 12,0.33,9.89,1,1,1,1,0.2,9.89,0.08
+Bestway,SELF5629964467,724216,,Mikado Milk Chocolate 39g box x 24 boxes,0.33,9.49,1,1,1,1,0.2,9.49,0.08
+Bestway,SELF4157188634,21026,,( 6 Pack ) Cadbury Choc Chip Cookies 150g,0.33,4.67,1,1,1,1,0,4.67,0.08
+Bestway,SELF7463306886,327304,,Bestone Bourbon Cream Biscuits 150g x 12,0.33,3.69,1,1,1,1,0,3.69,0.08
+Bestway,SELF3463214823,610877,,Cheerios Multigrain 375g,0.33,10.29,1,1,1,1,0,10.29,0.08
+Bestway,SELF6944693418,724575,,Encona West Indian Original Hot Pepper Sauce 142ml (Pack of 6),0.33,3.99,1,1,1,1,0,3.99,0.08
+Bestway,SELF3455167850,677872,,Baxters Sliced Beetroot Pickled in Malt Vinegar 340g,0.33,5.39,1,1,1,1,0,5.39,0.08
+Bestway,SELF3389916182,446868,,Cadbury Creme Egg Single 40g,0.33,15.99,1,1,1,1,0.2,15.99,0.08
+Bestway,SELF8839225170,294536,,"Maynards Bassetts Juicy Chews, 165 g, Pack of 12",0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF3253428935,530840,,Fun Gums Juicy Lips Candy: 600 Count Tub,0.33,2.99,1,1,1,1,0.2,2.99,0.08
+Bestway,SELF6840051345,613236,,"Heinz Tomato Squeezy Ketchup, 342 g (Pack of 10)",0.33,12.99,1,1,1,1,0,12.99,0.08
+Bestway,SELF6588470634,443380,,Heinz Ketchup Topdown,0.33,1.7,1,1,1,1,0,1.7,0.08
+Nespresso,SELF1584822174,,,Nespresso 2 Pure Lungo Cups & Saucer White,,10,1,1,1,0,0.2,10,0
+Nespresso,SELF1590807443,,,Nespresso Vertuo Receipe Glasses Set of 2 x 450ml,,10,1,1,1,0,0.2,10,0
+Bestway,SELF1861878273,615354,,Johnsons Baby Oil 6x300ml Bottles,0.33,6.99,1,1,1,1,0.2,6.99,0.08
+Bestway,SELF2588072911,435414,,McVitie's Custard Cream Biscuits 300g,0.33,8.79,1,1,1,1,0,8.79,0.08
+Costco,SELF3471721954,333883,,Maryland Chocolate Chip Cookies Mega Box 8 x 230g,0.33,4.99,1,1,1,1,0,4.99,0.08
+Costco,SELF2613601438,337986,,After Eight Mints Carton 300 g (Pack of 3),0.33,4.49,1,1,1,1,0.2,4.49,0.08
+Costco,SELF8775501292,209629,,"Toppers Forest Feast, Pomegranate & Almond 450g",0.33,4.69,1,1,1,1,0.2,4.69,0.08
+Costco,SELF6097271065,180264,,Acti Snack Power Pack Plus with Fruit Nut & Seed No Added Sugar 500g,0.33,4.99,1,1,1,1,0.2,4.99,0.08
+Bestway,SELF6550036688,610254,,"Eat Natural Bars Dark Chocolate with Cranberries & Macadamia, 45g - Pack of 12",0.33,6.89,1,1,1,1,0.2,6.89,0.08
+Bestway,SELF5847538050,569042,,HALLS SOOTHERS Full Box - 20 x 45g Packs (Cherry),0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Bestway,SELF7017291812,701325,,"Barratt Dip Dab Strauberry Lolly, 50 x 23g",0.33,14.79,1,1,1,1,0.2,14.79,0.08
+Bestway,SELF2120597762,137716,,Candyland Wham Chew Bar 10P (60 Pieces),0.33,4.49,1,1,1,1,0.2,4.49,0.08
+Bestway,SELF3141646676,402311,,"Wrigley Extra Peppermint Sugarfree Mints, 77 g, 70-Piece, Pack of 6",0.33,7.19,1,1,1,1,0.2,7.19,0.08
+Bestway,SELF4490448237,677148,,Mega Double Lollies Box of 36,0.33,5.49,1,1,1,1,0.2,5.49,0.08
+Bestway,SELF9851712855,677161,,Swizzels Matlow Love Hearts Dip (Pack of 36),0.33,5.49,1,1,1,1,0.2,5.49,0.08
+Bestway,SELF987928973,504517,,"ICE BREAKERS Sugar Free Mints, Spearmint, 1.5 Ounce (Pack of 8)",0.33,5.49,1,1,1,1,0.2,5.49,0.08
+Bestway,SELF8665545110,504263,,"Ice Breakers Fruit Sours, Pack of 8",0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Miscellaneous,SELFDUMMY,DUMMY,,DUMMY (TO INSTRUCT USERS TO ADD PRODUCTS),0.33,5.49,1,1,1,0,0,5.49,0
+Bestway,SELF3236775605,294503,,Maynards Bassetts Wine Gums £1 Sweets Bag 165g,0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF5096270089,294558,,Maynards Bassetts Jelly Babies £1 Sweets Bag 165g,0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF8452918347,294525,,Maynards Bassetts Liquorice Allsorts £1 Sweets Bag 165g,0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF3776772637,294493,,"Maynards Bassetts Sports Mixture Sweets Bag, 165 g, Pack of 12",0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF4670830196,326417,,Maynards Bassetts Wine Gums Tangy £1 Sweets Bag 165g,0.33,7.99,1,1,1,1,0.2,7.99,0.08
+Bestway,SELF9305768291,713450,,( 12 Pack ) Haribo Tangfastics Pouch - 160g,0.33,7.19,1,1,1,1,0.2,7.19,0.08
+Bestway,SELF9862139703,2216,,( 12 Pack ) Skittles Fruits 125g,0.33,7.79,1,1,1,1,0.2,7.79,0.08
+Bestway,SELF4829424683,992134,,Swizzels Drumstick Squashies Original Raspberry and Milk 145g,0.33,7.79,1,1,1,1,0.2,7.79,0.08
+Bestway,SELF4862605583,710067,,"Maoam Pinballs Chewy Fruit Sweets Bags, 12 x 170 g",0.33,5.99,1,1,1,1,0.2,5.99,0.08
+Bestway,SELF5813566847,120328,,Tunes Cherry Menthol Sugar Free 37g (Pack of 24 x 37g),0.33,6.49,1,1,1,1,0.2,6.49,0.08
+PriceCheck,SELF2619974188,FOKEL039B,,"Kel Bran Flakes, 500g",0.33,0.95,1,1,1,1,0,0.95,0.08
+PriceCheck,SELF4312704595,FOKEL070,,Krave Hazelnut Chocolate Cereal Shells 375 g,0.33,0.3,1,1,1,1,0,0.3,0.08
+PriceCheck,SELF6049722308,FOKEL064A,,"Kellogg's Crunchy Nut, 500g",0.33,2.1,1,1,1,1,0,2.1,0.08
+PriceCheck,SELF6343584676,FOKEL077,,"Crunchy Nut Kellogg's Crunchy Nut Granola Pistachio & Dark Chocolate, 380 g",0.33,2.1,1,1,1,1,0,2.1,0.08
+PriceCheck,SELF9490612779,FOKEL052,,"Kelloggs Cornflakes Pmp, 550 g",0.33,2.1,1,1,1,1,0,2.1,0.08
+PriceCheck,SELF1424709497,FOBAX005,,Baxters Favourites Cream Of Chicken Soup 400 g,0.33,0.67,1,1,1,1,0,0.67,0.08
+PriceCheck,SELF5897576768,FOKEL078,,"Kellogg's Rice Krispies Cereal, 510g",0.33,2.1,1,1,1,1,0,2.1,0.08
+PriceCheck,SELF766322246,FOWEE028,,Weetabix Minis Fruit & Nut 600g,0.33,2.65,1,1,1,1,0,2.65,0.08
+PriceCheck,SELF3964411512,FOALP021,,ALPEN 5X29G CARAMEL & CHOCOLATE CEREAL BAR,0.33,6.9,1,1,1,1,0.2,6.9,0.08
+PriceCheck,SELF2480437576,TOSCH769,,SCHOLL VELVET SMOOTH NAIL CARE REFILLS BLUE 3PK,0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF8282691938,TOORA278,,"Oral-B CrossAction Brushes, Black, Pack of 4, Black Edition",0.33,7.55,1,1,1,1,0.2,7.55,0.08
+PriceCheck,SELF1536107589,TOORA280,,ORAL B SENSITIVE ULTRA THIN REPLACEMENT ELECTRIC TOOTHBRUSH HEAD X5,0.33,8.95,1,1,1,1,0.2,8.95,0.08
+PriceCheck,SELF1800773664,TOORA199,,ORAL B 3D WHITE REPLACEMENT ELECTRIC TOOTHBRUSH HEAD X2,0.33,3.9,1,1,1,1,0.2,3.9,0.08
+Bestway,SELF9979303962,507730,,Fruittella Strawberry Stick 41g,0.33,12.69,1,1,1,1,0.2,12.69,0.08
+Costco,SELF2488557029,146708,,DURACELL ULTRA AAA - 16PK,0.33,8.99,1,1,1,1,0.2,8.99,0.08
+Costco,SELF9342706538,155736,,DURACELL AA ULTRA - 20PK,0.33,9.99,1,1,1,1,0.2,9.99,0.08
+PriceCheck,SELF4119051046,FOSWI033,,Swizzels Drumstick Squashies Bubblegum Flavour (Pack of 12 x 145g),0.33,6.72,1,1,1,1,0.2,6.72,0.08
+PriceCheck,SELF147082266,FOSWI035,,Swizzels Drumstick Squashies Gift Carton 350 g (Pack of 6),0.33,9.6,1,1,1,1,0.2,9.6,0.08
+PriceCheck,SELF8284186841,COSLOR601,,L'Oreal Age Perfect Eye Cream 15ml,0.33,4.25,1,1,1,1,0.2,4.25,0.08
+PriceCheck,SELF913434536,COSLOR606,,L'Oréal Paris Dermo Expertise Revitalift Eye Care 15 ml,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF5248008860,COSLOR600,,L'Oreal Age Perfect Rehydrating Anti-Sagging Night Cream 50 ml,0.33,4.25,1,1,1,1,0.2,4.25,0.08
+PriceCheck,SELF1293554597,COSLOR799,,"L'Oreal Age Perfect Golden Age Rosy Glow & Radiance Tinted Day Cream, Face Cream Skin Care for Mature Skin 50 ml",0.33,4.25,1,1,1,1,0.2,4.25,0.08
+PriceCheck,SELF7804219251,FOSWI023,,"BUMPER BAG Swizzels Bumper Bag, 180 g, Pack of 12",0.33,6.72,1,1,1,1,0.2,6.72,0.08
+PriceCheck,SELF8450370139,FOSWI029,,"SQUASHIES Sour Cherry & Apple Flavour Drumstick, Pack of 10",0.33,5.6,1,1,1,1,0.2,5.6,0.08
+PriceCheck,SELF4167265516,COSLOR796,,L'Oreal Age Perfect Intensive Renourish Manuka Honey Salve 40ml,0.33,7.62,1,1,1,1,0.2,7.62,0.08
+PriceCheck,SELF4112553058,COSLOR602,,L'Oreal Paris Age Perfect Cell Renew Revitalising Day Cream SPF 15 for Mature Skin 50 ml,0.33,7.95,1,1,1,1,0.2,7.95,0.08
+PriceCheck,SELF7051151737,FOTAS001,,Tassimo Jacobs Caffe Crema Classico X-Large (Pack of 5),0.33,13.75,1,1,1,1,0,13.75,0.08
+PriceCheck,SELF3521394551,FOTAS017,,"Tassimo Costa Iced Caramel Latte Coffee Pods, 8 Servings",0.33,3.79,1,1,1,1,0,3.79,0.08
+PriceCheck,SELF7777087785,FOCAD040,,Cadbury Dairy Milk Caramel 120g (Box of 16),0.33,10.56,1,1,1,1,0.2,10.56,0.08
+PriceCheck,SELF9589338085,FOCAD015,,"Cadbury Wispa 4 Bars (Pack of 11, Total 44 Bars)",0.33,7.48,1,1,1,1,0.2,7.48,0.08
+PriceCheck,SELF9650492523,FOCAD012,,"Cadbury Double Decker Chocolate Bar, Pack of 8, 4-Piece",0.33,5.44,1,1,1,1,0.2,5.44,0.08
+PriceCheck,SELF639943812,FOSWI030,,"Swizzels Great British Puds Chew Bars Sweets Large Bags 150g x 4 - Lemon Meringue, Apple Pie & Custard, Sticky Toffee Pudding and Rhubarb Crumble",0.33,2.48,1,1,1,1,0.2,2.48,0.08
+Costco,SELF3022207226,301812,,"AfterShokz Aeropex Open-Ear Wireless Waterproof Bone Conduction Sports Running Headphones,Cosmic Black",0.33,59.99,1,1,1,1,0.2,59.99,0.08
+Costco,SELF6999720611,277920,,"Fairy  Platinum All in One Dishwasher Capsules Lemon - 115 Tablets 3XL Pack, 1.5 kg",0.33,9.49,1,1,1,1,0.2,9.49,0.08
+Costco,SELF4883052526,259117,,Compact Ariel Professional Colour Laundry Detergent Liquid 130 wash 4.55L (+40% more washes),0.33,10.79,1,1,1,1,0.2,10.79,0.08
+Costco,SELF9906643603,355324,,Surf Mega Pack 130 Wash Tropical Lily & Ylang Ylang Washing Powder Detergent +20% Perfume,0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Costco,SELF2949373297,312744,,"Pet Munchies Chicken Strips, 320 g",0.33,3.245,1,1,1,1,0.2,3.25,0.08
+Costco,SELF2065091435,180216,,Colgate Sensitive Pro-Relief Toothpaste 75ml 6 Pack,0.33,7.49,1,1,1,1,0.2,7.49,0.08
+Costco,SELF4657465095,41403,,"Dove Sensitive Skin Micellar Hypoallergenic Beauty Bar 100 Gram Bars, Pack of 12",0.33,3.89,1,1,1,1,0.2,3.89,0.08
+Costco,SELF4822872811,333613,,Pantene Advanced Care Conditioner 5 in 1 Pro Vitamin B5 Complex 1L,0.33,5.89,1,1,1,1,0.2,5.89,0.08
+Bestway,SELF1638572638,251293,,Fairy Original Concentrate Washing Up Liquid 433ml (10 Bottles),0.33,8.79,1,1,1,1,0.2,8.79,0.08
+Bestway,SELF9063755361,75681,,"Surf Tropical Fragranced Laundry Powder, Biological Cleaning Fabric Solution, Fresh Powder Wash For Clothes, Bulk Pack (7 x 650 g)",0.33,10.49,1,1,1,1,0.2,10.49,0.08
+Bestway,SELF444734193,418266,,"Cadbury Dairy Milk Giant Chocolate Buttons Bag, 95 g, Pack of 10",0.33,6.39,1,1,1,1,0.2,6.39,0.08
+Bestway,SELF4784941310,418233,,"Cadbury Twirl Bites Chocolate Bag, 95 g, Pack of 10",0.33,6.39,1,1,1,1,0.2,6.39,0.08
+Bestway,SELF3529189662,392198,,Cadbury Dairy Milk Chocolate Bar - 22 x 95g,0.33,14.69,1,1,1,1,0.2,14.69,0.08
+Bestway,SELF256989069,105488,,Trebor Spearmint Softmints Roll 44.9g (Box of 40),0.33,9.99,1,1,1,1,0.2,9.99,0.08
+Bestway,SELF8880498455,217275,,Cadbury Bournville Cocoa 125g - Pack of 12,0.33,13.49,1,1,1,1,0,13.49,0.08
+PriceCheck,SELF1257251079,TOSTI117A,,ST IVES 150ML SCRUB FRESH SKIN APRICOT,0.33,1.35,1,1,1,1,0.2,1.35,0.08
+PriceCheck,SELF5098852053,FOCAD033,,CADBURY DAIRY MILK 114G FINGERS MILK CHOCOLATE,0.33,0.62,1,1,1,1,0.2,0.62,0.08
+PriceCheck,SELF2241060577,FOGUL003,,GULLON 125G SUGAR FREE CHOCOLATE CHIP COOKIE (0% VAT) (EN;IT;DK;PL;NL),0.33,0.65,1,1,1,1,0,0.65,0.08
+PriceCheck,SELF7030346784,FOGUL041,,GULLON 150G SUGAR FREE CHOCOLATE CHIP COOKIES (0% VAT),0.33,0.35,1,1,1,1,0,0.35,0.08
+PriceCheck,SELF4769982307,FOGUL040,,GULLON 150G DIGESTIVE GLUTEN FREE (0% VAT),0.33,0.77,1,1,1,1,0,0.77,0.08
+PriceCheck,SELF3351754049,FOGUL023,,GULLON 245G SUGAR FREE DIGESTIVE ORIGINAL (0% VAT) (EN;DE;NL;DK;EE;SK),0.33,0.72,1,1,1,1,0,0.72,0.08
+PriceCheck,SELF9036884448,FOGUL002,,GULLON 270G SUGAR FREE DIGESTIVE CHOCOLATE (EN;DE;NL),0.33,0.9,1,1,1,1,0.2,0.9,0.08
+PriceCheck,SELF7365149474,FOGUL007,,GULLON 330G SUGAR FREE SHORTBREAD BISCUITS (0% VAT),0.33,0.75,1,1,1,1,0,0.75,0.08
+PriceCheck,SELF5200457070,FOGUL013,,GULLON 180G SUGAR FREE WAFER VANILLA (0% VAT) (EN;ES;IT;DK;PL;NL),0.33,0.75,1,1,1,1,0,0.75,0.08
+PriceCheck,SELF107378451,FOGUL012,,GULLON 250G NO ADDED SUGAR CHOCOLATE CREAMS (0% VAT),0.33,0.69,1,1,1,1,0,0.69,0.08
+PriceCheck,SELF4254946879,FOGUL005,,GULLON 170G SUGAR FREE FIBRE BISCUITS (0% VAT) (EN;DK;IT;EE;PL;NL),0.33,0.65,1,1,1,1,0,0.65,0.08
+PriceCheck,SELF2075795814,GSKIPAW003,,PAW PATROL 75ML TOOTHPASTE 04/22 (EN;ES;FR;DE;NL;IT;PT;PL;CZ;SI),0.33,0.62,1,1,1,1,0.2,0.62,0.08
+PriceCheck,SELF5232810867,GSKIPAW001,,PAW PATROL TWIN TOOTHBRUSH (EN;ES;FR;DE;NL;IT;PT;CZ;PL;SI),0.33,0.64,1,1,1,1,0.2,0.64,0.08
+PriceCheck,SELF9377396337,TODUR215,,DUREX PLAY 200ML MASSAGE 2IN1 STIMULATING 03/22 06/22 07/22 08/22 (IT),0.33,3.05,1,1,1,1,0.2,3.05,0.08
+PriceCheck,SELF5429701321,HOFEB117,,FEBREZE 300ML AIR FRESHENER SPRAY SPICED APPLE,0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF6573190169,HOFEB104,,FEBREZE 300ML AIR FRESHENER SPRAY LAVENDER 02/22 06/22,0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF6012430836,HOFEB093,,FEBREZE AMBI PUR 3VOLUTION 20ML ELECTRIC REFILL OCEAN MIST,0.33,1.5,1,1,1,1,0.2,1.5,0.08
+PriceCheck,SELF4944359085,FOTAS003,,TASSIMO JACOBS ESPRESSO 16'S (0% VAT) (EN;DE;SE;DK;NO;FR;ES;NL;CZ;AT;CH;SK;RO;PL;UA),0.33,2.75,1,1,1,1,0,2.75,0.08
+PriceCheck,SELF3722102676,TOSHE026,,SHEA MOISTURE 454ML CONDITIONER STRENGTHENING JAMAICAN BLACK CASTOR OIL,0.33,6.1,1,1,1,1,0.2,6.1,0.08
+PriceCheck,SELF4388808950,TOSHE025A,,SHEA MOISTURE 340G MASQUE STRENGTHENING TREATMENT JAMAICAN BLACK CASTOR OIL,0.33,6.1,1,1,1,1,0.2,6.1,0.08
+PriceCheck,SELF3409096511,TOSHE022,,SHEA MOISTURE 355ML HAIR SMOOTHIE CURL & SHINE COCONUT AND HIBISCUS,0.33,6.5,1,1,1,1,0.2,6.5,0.08
+PriceCheck,SELF1739586593,ACWET003,,"Wet Brush Original Detangler, Black",0.33,3.75,1,1,1,1,0.2,3.75,0.08
+PriceCheck,SELF1339242044,HOFAI113,,FAIRY HYGIENIC SCOURER PLATINUM 2PK,0.33,0.63,1,1,1,1,0.2,0.63,0.08
+PriceCheck,SELF5602534599,HOFAI171,,FAIRY PLATINUM ALL IN ONE DISHWASHER TAB'S 46'S LEMON 03/22 04/22,0.33,4.35,1,1,1,1,0.2,4.35,0.08
+PriceCheck,SELF605150010,HOFAI173,,FAIRY PODS NON BIO 12'S PMP £3.99,0.33,2.05,1,1,1,1,0.2,2.05,0.08
+Bestway,SELF1632059051,686800,,Mars Chocolate Bars x 39.4g,0.33,0.22,1,1,1,1,0.2,0.22,0.08
+Bestway,SELF7162013948,435093,,Kellogg's Crunchy Nut Oat Granola Chocolate 380g,0.33,2.33,1,1,1,1,0,2.33,0.08
+Costco,SELF9038108452,677823,,"SmartyPants Kids Complete Daily Gummy Vitamins: Gluten Free, Multivitamin & Omega 3 Fish Oil (DHA/EPA Fatty Acids), Iodine Supplement, Methyl B12, Vitamin D3, Non-GMO, 120 count (30 Day Supply)",0.33,15.49,1,1,1,1,0.2,15.49,0.08
+Costco,SELF4236767084,149037,,"USN Diet Fuel Strawberry UltraLean 2 kg, Diet Protein Powders, Weight Control & Meal Replacement Shake Powder",0.33,22.99,1,1,1,1,0,22.99,0.08
+Costco,SELF3167220806,259397,,"ORAL-B Manual 3DWhite Luxury Perfection Whitening Toothpaste, 75 ml",0.33,1.99,1,1,1,1,0.2,1.99,0.08
+Costco,SELF1414439630,158625,,"Harpic Power Plus, 750ml",0.33,0.75,1,1,1,1,0.2,0.75,0.08
+Costco,SELF8181373366,262030,,"Ferrero Rocher Chocolate , 375 g, 30 Chocolates",0.33,5.99,1,1,1,1,0.2,5.99,0.08
+PriceCheck,SELF9867054922,TOSHE040,,SHEA MOISTURE 340G CONDITIONING GEL JOJOBA OIL & UCUUBA BUTTER BRAID UP,0.33,4.2,1,1,1,1,0.2,4.2,0.08
+PriceCheck,SELF8150648850,TOSHE043,,SHEA MOISTURE 384ML CONDITIONER RED PALM & COCOA BUTTER LEAVE IN,0.33,4.2,1,1,1,1,0.2,4.2,0.08
+PriceCheck,SELF544406953,TOSHE042,,SHEA MOISTURE 340G RED PALM & COCOA BUTTER ELONGATING PUDDING,0.33,4.2,1,1,1,1,0.2,4.2,0.08
+PriceCheck,SELF7762666394,FOTAS008,,TASSIMO MILKA HOT CHOCOLATE 8'S (0% VAT) (EN;ES;FR;DE;NL;PT;DK;SE;CZ;NO;RO;PL;GR;SK;AT;CH),0.33,2.75,1,1,1,1,0,2.75,0.08
+PriceCheck,SELF327090123,ACWET045,,"WetBrush Original Detangler, Pink",0.33,1.5,1,1,1,1,0.2,1.5,0.08
+PriceCheck,SELF8474541453,ACWET055,,"Wet Brush Shine Enhancer, Purple",0.33,2.5,1,1,1,1,0.2,2.5,0.08
+PriceCheck,SELF4603131601,ACWET049,,Wet Brush Original Detangler Brush - Safari Leopard By For Unisex - 1 Pc Hair Brush,0.33,2.5,1,1,1,1,0.2,2.5,0.08
+PriceCheck,SELF4069584341,HOAIR552,,AIRWICK FRESHMATIC REFILL 250ML SUMMER DELIGHTS,0.33,1.65,1,1,1,1,0.2,1.65,0.08
+PriceCheck,SELF1946105529,HOAIR616,,AIRWICK FRESHMATIC MAX REFILL 250ML MULLED WINE,0.33,1.65,1,1,1,1,0.2,1.65,0.08
+PriceCheck,SELF8087670728,HOAIR615,,AIRWICK FRESHMATIC MAX WARM AMBER ROSE SET 2PC (250ML REFILL & MACHINE),0.33,3.2,1,1,1,1,0.2,3.2,0.08
+PriceCheck,SELF644495236,HOAIR605,,AIRWICK ESSENTIAL MIST GOLD SET 4PC (1 X DIFFUSER & 3 REFILLS),0.33,7.8,1,1,1,1,0.2,7.8,0.08
+PriceCheck,SELF8075994265,HOAIR319,,AIRWICK ELECTRIC 19ML REFILL WHITE FLOWERS (EN LABEL;PL;LT),0.33,1.3,1,1,1,1,0.2,1.3,0.08
+PriceCheck,SELF4051881962,HOAIR611,,AIRWICK ELECTRIC 19ML REFILL CHERRY BLOSSOM,0.33,1.3,1,1,1,1,0.2,1.3,0.08
+PriceCheck,SELF8275340324,HOAIR610,,AIRWICK ELECTRIC 19ML REFILL MUMS BAKING,0.33,1.3,1,1,1,1,0.2,1.3,0.08
+PriceCheck,SELF5029300772,ACWET057,,"Wet Brush Hair Brush Original Detangler Disney Princess Collection with Ultra Soft Bristles, Pain Free Brushing for Women, Men and Kids, Gentle Detangle for Wet or Dry Hair- Belle",0.33,1.5,1,1,1,1,0.2,1.5,0.08
+PriceCheck,SELF8867772968,TONIV298A,,NIVEA FRESH 200ML BODY LOTION MOUSSE CUCUMBER & MATCHA TEA DRY SKIN,0.33,1.1,1,1,1,1,0.2,1.1,0.08
+PriceCheck,SELF165167,COSNIV106,,NIVEA SOFT 100ML CREAM EXOTIC ONE LIMITED EDITION (EN;FR;DE;NL),0.33,0.78,1,1,1,1,0.2,0.78,0.08
+PriceCheck,SELF3660763152,TONIV325,,NIVEA 50ML ROLL ON DAY FRESH 48 HOUR PROTECTION,0.33,0.75,1,1,1,1,0.2,0.75,0.08
+PriceCheck,SELF4549947097,TONIV160,,NIVEA MEN 100ML POST SHAVE BALM SENSITIVE,0.33,1.95,1,1,1,1,0.2,1.95,0.08
+PriceCheck,SELF479967181,TONIV274,,NIVEA MEN 200ML SHAVING GEL ACTIVE ENERGY,0.33,1.05,1,1,1,1,0.2,1.05,0.08
+PriceCheck,SELF1024562919,TONIV273,,NIVEA MEN 50ML FACE GEL ACTIVE ENERGY,0.33,1.95,1,1,1,1,0.2,1.95,0.08
+PriceCheck,SELF9051032452,GSTONIV094,,"NIVEA MEN COMPLETE COLLECTION SET 5PC(250ML S/GEL,200ML SH/FOAM,100ML F/WASH,75ML MOIST,50ML R/ON)",0.33,6.95,1,1,1,1,0.2,6.95,0.08
+PriceCheck,SELF2816683537,SUNIV285,,NIVEA SUN 75ML FACE MOISTURE SPF50,0.33,1.65,1,1,1,1,0.2,1.65,0.08
+PriceCheck,SELF8139054988,SUNIV102,,NIVEA SUN 200ML SUN LOTION SENSITIVE SPF30,0.33,2.95,1,1,1,1,0.2,2.95,0.08
+PriceCheck,SELF3737724376,SUAMB317,,AMBRE SOLAIRE 200ML LIGHT & SILKY LOTION HIGH SPF 30,0.33,2.75,1,1,1,1,0.2,2.75,0.08
+PriceCheck,SELF6958074107,HOBLO001,,BLOO IN CISTERN TOILET BLOCK BLUE TWIN,0.33,0.68,1,1,1,1,0.2,0.68,0.08
+PriceCheck,SELF8287049670,SUAMB351,,AMBRE SOLAIRE 150ML TINTED SELF TAN GEL GOLDEN SHIMMER,0.33,1.6,1,1,1,1,0.2,1.6,0.08
+PriceCheck,SELF493776961,SUBON005,,BONDI SANDS 200ML SELF TANNING LOTION LIGHT/MEDIUM,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF9962576378,SUBON006,,BONDI SANDS 200ML SELF TANNING LOTION DARK,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF6279624611,SUBON030,,BONDI SANDS 200ML SELF TANNING LOTION ULTRA DARK,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF8479811317,SUBON004,,BONDI SANDS 250ML SELF TANNING MIST LIGHT/MEDIUM,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF4784711985,SUBON003,,BONDI SANDS 250ML SELF TANNING MIST DARK,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF9491596413,SUBON007,,BONDI SANDS 150ML SELF TANNING DRY OIL LIQUID GOLD,0.33,3.95,1,1,1,1,0.2,3.95,0.08
+PriceCheck,SELF6540521481,SUBON031,,BONDI SANDS 100ML GRADUAL TANNING MILK EVERYDAY,0.33,1.95,1,1,1,1,0.2,1.95,0.08
+PriceCheck,SELF1035728466,SUBON002,,BONDI SANDS 275ML GRADUAL TANNING MILK SPF15 EVERYDAY,0.33,3.45,1,1,1,1,0.2,3.45,0.08
+PriceCheck,SELF6205570152,SUBON008,,BONDI SANDS 270ML GRADUAL TANNING FOAM EVERYDAY,0.33,3.45,1,1,1,1,0.2,3.45,0.08
+PriceCheck,SELF9823762860,SUBON010,,BONDI SANDS 225ML GRADUAL TANNING FOAM MEN'S EVERDAY,0.33,3.45,1,1,1,1,0.2,3.45,0.08
+PriceCheck,SELF9080392511,SUBON016,,BONDI SANDS 200ML AERO TAN LIGHT/MED,0.33,5.75,1,1,1,1,0.2,5.75,0.08
+PriceCheck,SELF3492941263,SUBON015,,BONDI SANDS 200ML AERO TAN DARK,0.33,5.75,1,1,1,1,0.2,5.75,0.08
+PriceCheck,SELF4040742730,SUBON017,,BONDI SANDS 225ML AERO LIQUID GOLD TAN,0.33,5.75,1,1,1,1,0.2,5.75,0.08
+PriceCheck,SELF9603386541,SUBON014,,BONDI SANDS 100ML GLO SHIMMER,0.33,2.95,1,1,1,1,0.2,2.95,0.08
+PriceCheck,SELF2290256548,SUBON024,,BONDI SANDS 25ML GLO LIGHTS BRONZE,0.33,2.75,1,1,1,1,0.2,2.75,0.08
+PriceCheck,SELF679737404,SUDOV046,,DOVE DERMA SPA 200ML SELF TAN LOTION FAIR TO MEDIUM SKIN (EN FRONT;ES;IT;SE;DK;NO;FI),0.33,1.4,1,1,1,1,0.2,1.4,0.08
+PriceCheck,SELF9235915821,SUDOV042,,DOVE DERMA SPA 200ML SELF TAN LOTION SHIMMER MEDIUM TO DARK SKIN (EN;NL;PL;SE;DK;NO;FI),0.33,1.4,1,1,1,1,0.2,1.4,0.08
+PriceCheck,SELF3712191530,SUDOV053,,DOVE VISIBLE GLOW 400ML SELF TAN LOTION FAIR TO MEDIUM SKIN (EN;DK;SE;NO;FI),0.33,1.65,1,1,1,1,0.2,1.65,0.08
+PriceCheck,SELF373532705,SUNIP003,,"NIP+FAB Faux Tan Mousse, Mocha",0.33,5.25,1,1,1,1,0.2,5.25,0.08
+PriceCheck,SELF3545298632,SUNIP005,,"NIP+FAB Glycolic Polish Pad, Pack of1",0.33,1.5,1,1,1,1,0.2,1.5,0.08
+PriceCheck,SELF2713053348,SUSTM011,,St. Moriz Professional Develop Tanning Lotion Medium 250ml,0.33,1.65,1,1,1,1,0.2,1.65,0.08
+PriceCheck,SELF2073879037,SUSTT056,,ST TROPEZ 100ML INSTANT TAN FINISHING GLOSS,0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF1882986315,SUSTT035,,ST TROPEZ 200ML GRADUAL TAN SHOWER LOTION MEDIUM (EN;FR),0.33,4.75,1,1,1,1,0.2,4.75,0.08
+Nespresso,SELF8848843175,,,Shanghai Lungo,0.33,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,SELF9120920611,,,Buenos Aires Lungo,0.33,3.8,1,10,20,1,0,3.8,0.07
+Nespresso,SELF4039782060,,,Nespresso 48 Starter Pack,0.8,18.72,1,1,1,1,0,18.72,0.07
+PriceCheck,SELF782733602,HOLEN061,,LENOR 900ML FABRIC CONDITIONER KISS PARFUM DES SECRETS (EN LABEL;DE),0.33,1.7,1,1,1,1,0.2,1.7,0.08
+PriceCheck,SELF8295997040,HOLEN018A,,LENOR 630ML FABRIC CONDITIONER SUMMER BREEZE 18 WASH,0.33,0.95,1,1,1,1,0.2,0.95,0.08
+PriceCheck,SELF2679715629,HOCOM070,,Comfort Intense Luxurious 100 Percent Recycled bottle* Ultra Concentrated Fabric Conditioner for Fresh Laundry 60 Wash 900 ml,0.33,1.75,1,1,1,1,0.2,1.75,0.08
+PriceCheck,SELF9153790,HOCOM050,,COMFORT INTENSE 1.275L FABRIC CONDITIONER PURE 85W (EN;PT),0.33,2.2,1,1,1,1,0.2,2.2,0.08
+PriceCheck,SELF655302353,HOSCR007,,SCRUB DADDY COLOURS 3PK,0.33,3.9,1,1,1,1,0.2,3.9,0.08
+PriceCheck,SELF40718847,HOSCR009,,SCRUB DADDY SCOUR DADDY 3PK,0.33,1.8,1,1,1,1,0.2,1.8,0.08
+Bestway,SELF6726348738,713348,,( 5ltr Pack ) Ariel Professional Washing Liquid Regular 5L 100 Washes,0.33,10.39,1,1,1,1,0.2,10.39,0.08
+Bestway,SELF2160973323,713350,,Ariel Professional Washing Liquid Colour 5L 100 Washes,0.33,10.39,1,1,1,1,0.2,10.39,0.08
+PriceCheck,SELF8740411420,HOAST034,,ASTONISH 750ML FABRIC REFRESHER COTTON FRESH 11/24,0.33,0.65,1,1,1,1,0.2,0.65,0.08
+PriceCheck,SELF4801573661,HOAST013,,ASTONISH 235ML HOB CREAM CLEANER 11/23,0.33,0.65,1,1,1,1,0.2,0.65,0.08
+PriceCheck,SELF9968745072,TOORA281,,ORAL B CROSS ACTION REPLACEMENT ELECTRIC TOOTHBRUSH HEAD BLACK EDITION X2,0.33,3.9,1,1,1,1,0.2,3.9,0.08
+PriceCheck,SELF9064554036,TOORA286,,ORAL B PRECISION CLEAN REPLACEMENT ELECTRIC TOOTHBRUSH HEAD X3 (EN;ES;FR;DE;NL;IT;PT;DK;SE;NO;FI;GR),0.33,5.75,1,1,1,1,0.2,5.75,0.08
+PriceCheck,SELF1818152748,SUPIZ264,,"Piz Buin After Sun 0.18 kg, 0.25 millilitre",0.33,3.25,1,1,1,1,0.2,3.25,0.08
+PriceCheck,SELF4622898132,SUPIZ252,,PIZ BUIN 200ML ULTRA LIGHT SUN SPRAY SPF30 (EN;ES;IT;PT;GR;DE;SE;FI;FR;NO),0.33,3.75,1,1,1,1,0.2,3.75,0.08
+TEST,SELF3430590010,TEST10,,"Candy Kittens Sour Watermelon Vegan Sweets - Palm Oil Free, Natural Fruit Flavour Candy - Gummy Chewy Gourmet Sweets, 54g (Pack of 12 Pop Bags)",0.33,7.2,1,1,1,1,0.2,7.2,0.08
+TEST,SELF3516629660,TEST13,,"Candy Kittens Tropical Mango Vegan Sweets - Palm Oil Free, Natural Fruit Flavour Candy - Gummy Chewy Gourmet Sweets, 54g (Pack of 12 Pop Bags)",0.33,7.2,1,1,1,1,0.2,7.2,0.08
+PriceCheck,SELF7528981083,TOVAG001,,VAGISIL 75ML INTIMATE WASH,0.33,0.35,1,1,1,1,0.2,0.35,0.08
+PriceCheck,SELF136279996,TOALW323,,ALWAYS DISCREET SENSITIVE BLADDER PANTS LARGE 10'S - 31/01/2022 - USE,0.33,4.95,1,1,1,1,0.2,4.95,0.08
+PriceCheck,SELF7916707681,TOTEN017,,60 Sanitary Pads TENA LADY Extra Absorbent Anatomical and Female Folded,0.33,1.6,1,1,1,1,0.2,1.6,0.08
+PriceCheck,SELF8922771568,TOCAR002,,CAREFREE PANTYLINERS PLUS LARGE MAXI 20'S (0% VAT),0.33,0.59,1,1,1,1,0,0.59,0.08
+PriceCheck,SELF1806540747,FOGUL009,,2 x GULLON No Added Sugar Whole Grains Breakfast Biscuits 220g,0.33,0.9,1,1,1,1,0,0.9,0.08
+PriceCheck,SELF9794783609,FOGUL004,,GULLON 180G SUGAR FREE WAFER CHOCOLATE (0% VAT) (EN;IT;DK;PL;NL;GR),0.33,0.72,1,1,1,1,0,0.72,0.08
+PriceCheck,SELF2898415545,FOCHU009,,CHUPA CHUPS THE BEST LOLLIPOPS 10 PACK - 30/09/2023 - BBE,0.33,0.6,1,1,1,1,0.2,0.6,0.08
+PriceCheck,SELF7055023609,FGDAV012,,DAVID BECKHAM HOMME 30ML EDT SPRAY,0.33,3.5,1,1,1,1,0.2,3.5,0.08
+PriceCheck,SELF4537451434,FGBUR037,,BURBERRY BRIT MEN 100ML EDT SPRAY (EN;FR;DE),0.33,14.95,1,1,1,1,0.2,14.95,0.08
+PriceCheck,SELF8915051099,FGETE002A,,CALVIN KLEIN ETERNITY 100ML AFTERSHAVE SPRAY (EN;FR),0.33,11.8,1,1,1,1,0.2,11.8,0.08
+PriceCheck,SELF6589768887,FGDAV066A,,DAVIDOFF COOL WATER 125ML AFTERSHAVE (EN;FR),0.33,9.95,1,1,1,1,0.2,9.95,0.08
+PriceCheck,SELF9077738055,FGDAV110,,DAVIDOFF COOL WATER WAVE 125ML EDT SPRAY,0.33,9,1,1,1,1,0.2,9,0.08
+PriceCheck,SELF3985458065,FGDAV050,,DAVIDOFF HOT WATER HOMME 110ML EDT SPRAY (EN;FR),0.33,9.95,1,1,1,1,0.2,9.95,0.08
+PriceCheck,SELF4989906258,FGDAV117,,DAVIDOFF ADVENTURE 100ML EDT SPRAY (EN;FR),0.33,9.5,1,1,1,1,0.2,9.5,0.08
+PriceCheck,SELF8208661656,FGGRE008,,GREY FLANNEL 240ML EDT SPRAY,0.33,9.95,1,1,1,1,0.2,9.95,0.08
+PriceCheck,SELF1330059496,FGHUG061,,HUGO Man Eau de Toilette 125ml Aftershave for Men,0.33,19.95,1,1,1,1,0.2,19.95,0.08
+PriceCheck,SELF9995200894,FGHUG045,,BOSS The Scent Deodorant Spray 150ml,0.33,4.95,1,1,1,1,0.2,4.95,0.08
+PriceCheck,SELF3981903172,FGHUG024,,HUGO BOSS BOTTLED NIGHT 50ML EDT SPRAY,0.33,17.5,1,1,1,1,0.2,17.5,0.08
+PriceCheck,SELF1946466319,FGBOS013,,HUGO BOSS BOSS BOTTLED 50ML AFTERSHAVE LOTION,0.33,17.25,1,1,1,1,0.2,17.25,0.08
+PriceCheck,SELF331599202,FGHUG067,,"BOSS Bottled Unlimited Eau de Toilette 100, ml",0.33,20.95,1,1,1,1,0.2,20.95,0.08
+PriceCheck,SELF9836884564,FGHUG055,,HUGO BOSS BOTTLED 150ML DEO SPRAY (EN;FR;DE;IT;NL;ES),0.33,5.95,1,1,1,1,0.2,5.95,0.08
+PriceCheck,SELF1379407685,FGHUG064,,BOSS Bottled Tonic Eau de Toilette 200ml,0.33,32.5,1,1,1,1,0.2,32.5,0.08
+PriceCheck,SELF193867327,FGHUG028,,HUGO Just Different Eau de Toilette 40ml,0.33,12.5,1,1,1,1,0.2,12.5,0.08
+PriceCheck,SELF8459253875,FGHUG042,,HUGO BOSS JUST DIFFERENT 125ML EDT SPRAY (EN;FR),0.33,17.25,1,1,1,1,0.2,17.25,0.08
+PriceCheck,SELF3943244720,FGJIM002,,JIMMY CHOO MAN 50ML EDT SPRAY,0.33,16.95,1,1,1,1,0.2,16.95,0.08
+PriceCheck,SELF7905460602,FGJOO026A,,JOOP! 75ML FRAGRANCED DEODORANT SPRAY,0.33,5.15,12,1,1,1,0.2,0.43,0.08
+PriceCheck,SELF183539878,FGJOO002,,JOOP! HOMME 75ML EDT SPRAY (EN;FR),0.33,9.95,1,1,1,1,0.2,9.95,0.08
+PriceCheck,SELF7522886271,CGBRU020A,,100ML EDT SPRAY ORIGINAL BOXED (EN;FR;NL;IT;PT;CZ;RO;PL;GR;HU;SK;BG;BA;HR;MD),0.33,2,1,1,1,1,0.2,2,0.08
+PriceCheck,SELF1973224693,CGOLD142A,,OLD SPICE 100ML AFTERSHAVE HAWKRIDGE 09/22 (EN;ES;FR;DE;NL;PT;RO;BG;AL;BA;MK;MD;ME;FI;SE;NO),0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF1089793339,CGOLD141,,"Old Spice Original After Shave for Men, 150ml",0.33,3.3,1,1,1,1,0.2,3.3,0.08
+PriceCheck,SELF286680181,CGWIL001,,WILLIAMS 100ML AFTERSHAVE AQUA VELVA (NL;FR),0.33,1.4,1,1,1,1,0.2,1.4,0.08
+TEST,SELF1689413705,test2,,"Scotch-Brite Classic Nail Saver Scrub Sponge, 8 Pack",0.33,2.43,1,1,1,1,0.2,2.43,0.08
+TEST,SELF2474209765,test3,,"Ariel Professional Colour Washing Liquid 130 Washes, 4.55 L",0.33,10.79,1,1,1,1,0.2,10.79,0.08
+TEST,SELF8525156784,test4,,"SmartyPants Kids Complete Daily Gummy Vitamins: Gluten Free, Multivitamin & Omega 3 Fish Oil (DHA/EPA Fatty Acids), Iodine Supplement, Methyl B12, Vitamin D3, Non-GMO, 180 Count",0.33,15.49,1,1,1,1,0.2,15.49,0.08
+TEST,self123456,test,,check product,0.33,5.9,1,1,1,1,0.2,5.9,0.08
+PriceCheck,SELF6017943498,ACBRA019,,BRAUN NORMAL REPLACEMENT BRUSHES FACE 80 X2 (EN),0.33,0.88,1,1,1,1,0.2,0.88,0.08
+PriceCheck,SELF4448579500,ACGLA004,,GLAMORISER 3IN1 STYLING MULTI WAND GLA046 UK&EU PLUG (EN;ES;FR;DE;NL;PT;GR),0.33,18.25,1,1,1,1,0.2,18.25,0.08
+PriceCheck,SELF4225841632,ACMAG006,,MAGNITONE LONDON FACIAL MICROSTEAMER STEAM AHEAD HYDRATING (EN;ES;FR;DE;IT),0.33,12.25,1,1,1,1,0.2,12.25,0.08
+PriceCheck,SELF9348794503,ACSCH053,,SCHOLL GEL ACTIV PARTY FEET INSOLES BALL OF FOOT 03/22,0.33,0.9,1,1,1,1,0.2,0.9,0.08
+PriceCheck,SELF3948518016,ACTAN076,,TANGLE TEEZER ORIGINAL CORNFLOWER CHARM (EN;ES;FR;DE;PT;PL;AR;RU;JP),0.33,5.9,12,1,1,1,0.2,0.49,0.08
+PriceCheck,SELF5027862337,CLYAR173,,Yardley London English Lavender Perfumed Deodorizing Talc Talcum Powder 100gm,0.33,2.75,1,1,1,1,0.2,2.75,0.08
+PriceCheck,SELF6742034895,COSMON051,,MONTAGNE JEUNESSE 7TH SOFTEN SOCK MASQUES 1PAIR,0.33,1.25,1,1,1,1,0.2,1.25,0.08
+PriceCheck,SELF555671864,SUBON018,,"Bondi Sands Coconut Body Moisturiser | pH Balanced Formula Helps Prolong Your Tan and Nourishes + Hydrates Skin with Vitamin E and Jojoba, Self Tan Friendly, Vegan + Cruelty Free | 500 mL/17 Oz",0.33,2.75,1,1,1,1,0.2,2.75,0.08
+PriceCheck,SELF1921663413,TOKLE039,,KLEENEX ORIGINAL TISSUES BOX 70'S 3PLY (EN;ES;FR;DE;NL;IT;PT;DK;SE;IS;CZ;NO;TR;PL;GR;HU;SK;BG;FI;AT),0.33,0.58,1,1,1,1,0.2,0.58,0.08
+PriceCheck,SELF6910485934,TOSHE048,,SHEA MOISTURE 384ML BODY LOTION COCONUT & HIBISCUS ILLUMINATING,0.33,3.25,1,1,1,1,0.2,3.25,0.08
+PriceCheck,SELF4277857949,MEJUN016,,"Jungle Formula Outdoor & Camping Insect Repellent Spray, 90ml",0.33,0.6,1,1,1,1,0.2,0.6,0.08
+PriceCheck,SELF3669196690,MEJUN019,,"Jungle Formula Dry Protect Pump Spray, 90ml1 Units",0.33,0.6,1,1,1,1,0.2,0.6,0.08
+PriceCheck,SELF8209726853,MEJUN018,,"Jungle Formula Insect Repellent Spray Pump with DEET, Medium Strength, 90 ml",0.33,0.6,1,1,1,1,0.2,0.6,0.08
+PriceCheck,SELF1919708778,MEJUN020,,"Jungle Formula Dry Protect Aerosol, 125ml1 Units",0.33,0.6,1,1,1,1,0.2,0.6,0.08
+PriceCheck,SELF6322716409,MEJUN015,,"Jungle Formula Maximum Insect Repellent Spray with DEET, 125 ml",0.33,0.6,1,1,1,1,0.2,0.6,0.08
+Vertuo,SELF2248119001,,,Peru Organic,0.33,5,1,10,6,1,0,5,0.07
+Vertuo,SELF803237358,,,IL Caffe,0.33,3.9,1,10,6,1,0,3.9,0.07

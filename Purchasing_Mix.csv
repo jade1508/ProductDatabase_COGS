@@ -1,0 +1,830 @@
+PARENT CODE,PARENT PRODUCT NAME,Total Quantity (Total Sleeves / Products),No. of Childs (flavours / assortments),QTY of Each Child,Child ID,Child Opened,Supplier,Child Name,Child Cost Ex VAT (individial),Child Cost Ex VAT (Total),Parent Cost (Total) Ex VAT,VAT %,Procurement Cost,TOTAL PURCHASE PRICE (EX VAT),Product Count
+MIX5475668107,"Nespresso Original Line Assortment (Kazaar x2, Dharkan x2)",4,2,2,7640156771473,NO,Nespresso,Kazaar,3.8,7.6,14.8,0.00,£0.14,7.6,0
+MIX5475668107,"Nespresso Original Line Assortment (Kazaar x2, Dharkan x2)",4,2,2,SELF8155764730,NO,Nespresso,Napoli,3.6,7.2,14.8,0.00,£0.14,7.2,0
+MIX920037743,"Nespresso Limited Edition 30 Capsules (Vanilla Eclair, Caramel Creme Brulee, Cocoa Truffle)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX920037743,"Nespresso Limited Edition 30 Capsules (Vanilla Eclair, Caramel Creme Brulee, Cocoa Truffle)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX920037743,"Nespresso Limited Edition 30 Capsules (Vanilla Eclair, Caramel Creme Brulee, Cocoa Truffle)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,26.4,0.00,£0.14,7.2,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,26.4,0.00,£0.07,3.6,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,26.4,0.00,£0.07,3.6,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,26.4,0.00,£0.07,3.8,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,26.4,0.00,£0.07,4.1,0
+MIX1165460304,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio, Capriccio, Nicaragua, Ethiopia)",7,6,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,26.4,0.00,£0.07,4.1,0
+MIX9545937209,Tassimo Favourite Variety T-discs Bundle,24,3,8,7622210370167,NO,Costco,Cadbury drinking chocolate,4,31.92,80.688,0.00,£0.64,31.92,1
+MIX9545937209,Tassimo Favourite Variety T-discs Bundle,24,3,8,7622210438386,NO,Tassimo,Costa Latte,3.3,26.384,80.688,0.00,0,26.4,1
+MIX9545937209,Tassimo Favourite Variety T-discs Bundle,24,3,8,7622300777319,NO,Tassimo,COSTA Cappuccino,2.8,22.384,80.688,0.00,0,22.4,1
+MIX4626070523,"50 Nespresso Lungo Mix (Vivalto Lungo, Fortissio Lungo, Linizio Lungo, Shanghai Lungo, Evivo Lungo)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX4626070523,"50 Nespresso Lungo Mix (Vivalto Lungo, Fortissio Lungo, Linizio Lungo, Shanghai Lungo, Evivo Lungo)",5,5,1,SELF8848843175,NO,Nespresso,Shanghai Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX4626070523,"50 Nespresso Lungo Mix (Vivalto Lungo, Fortissio Lungo, Linizio Lungo, Shanghai Lungo, Evivo Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX4626070523,"50 Nespresso Lungo Mix (Vivalto Lungo, Fortissio Lungo, Linizio Lungo, Shanghai Lungo, Evivo Lungo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX4626070523,"50 Nespresso Lungo Mix (Vivalto Lungo, Fortissio Lungo, Linizio Lungo, Shanghai Lungo, Evivo Lungo)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX3486783940,"Nespresso Decaffeinato Mix (Decaf Vivalto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,11.6,0.00,£0.07,3.9,1
+MIX3486783940,"Nespresso Decaffeinato Mix (Decaf Vivalto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,11.6,0.00,£0.07,3.8,1
+MIX3486783940,"Nespresso Decaffeinato Mix (Decaf Vivalto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,11.6,0.00,£0.07,3.9,1
+MIX1681501150,"50 Nespresso Variety Mix (Decaf Arpeggio, Decaf Ristretto, Decaf Volluto, Cosi, Vivalto)",5,5,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,18.8,0.00,£0.07,3.9,1
+MIX1681501150,"50 Nespresso Variety Mix (Decaf Arpeggio, Decaf Ristretto, Decaf Volluto, Cosi, Vivalto)",5,5,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,18.8,0.00,£0.07,3.8,1
+MIX1681501150,"50 Nespresso Variety Mix (Decaf Arpeggio, Decaf Ristretto, Decaf Volluto, Cosi, Vivalto)",5,5,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,18.8,0.00,£0.07,3.9,1
+MIX1681501150,"50 Nespresso Variety Mix (Decaf Arpeggio, Decaf Ristretto, Decaf Volluto, Cosi, Vivalto)",5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,18.8,0.00,£0.07,3.6,1
+MIX1681501150,"50 Nespresso Variety Mix (Decaf Arpeggio, Decaf Ristretto, Decaf Volluto, Cosi, Vivalto)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.8,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,36.7,0.00,£0.07,3.9,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX5532456597,"Nespresso 100 Mix (Arpeggio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX6045595947,"50 Original Nespresso Mix (Ristretto, Arpeggio, Roma, Capriccio, Livanto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6045595947,"50 Original Nespresso Mix (Ristretto, Arpeggio, Roma, Capriccio, Livanto)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6045595947,"50 Original Nespresso Mix (Ristretto, Arpeggio, Roma, Capriccio, Livanto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6045595947,"50 Original Nespresso Mix (Ristretto, Arpeggio, Roma, Capriccio, Livanto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6045595947,"50 Original Nespresso Mix (Ristretto, Arpeggio, Roma, Capriccio, Livanto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX8754283761,"50 Nespresso Luxury Mix (Livanto, Colombia, Nicaragua, India, Fortissio Lungo)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,19.7,0.00,£0.07,4.1,1
+MIX8754283761,"50 Nespresso Luxury Mix (Livanto, Colombia, Nicaragua, India, Fortissio Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.7,0.00,£0.07,3.8,1
+MIX8754283761,"50 Nespresso Luxury Mix (Livanto, Colombia, Nicaragua, India, Fortissio Lungo)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,19.7,0.00,£0.07,4.1,1
+MIX8754283761,"50 Nespresso Luxury Mix (Livanto, Colombia, Nicaragua, India, Fortissio Lungo)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,19.7,0.00,£0.07,3.6,1
+MIX8754283761,"50 Nespresso Luxury Mix (Livanto, Colombia, Nicaragua, India, Fortissio Lungo)",5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,19.7,0.00,£0.07,4.1,1
+MIX6636629280,ebay-mild,5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX6636629280,ebay-mild,5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX6636629280,ebay-mild,5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,18.5,0.00,£0.07,4.1,0
+MIX6636629280,ebay-mild,5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX6636629280,ebay-mild,5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX7550782734,ebay-decaf,5,5,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,19.4,0.00,£0.07,3.9,0
+MIX7550782734,ebay-decaf,5,5,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,19.4,0.00,£0.07,3.9,0
+MIX7550782734,ebay-decaf,5,5,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,19.4,0.00,£0.07,3.9,0
+MIX7550782734,ebay-decaf,5,5,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,19.4,0.00,£0.07,3.9,0
+MIX7550782734,ebay-decaf,5,5,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,19.4,0.00,£0.07,3.8,0
+MIX6837034172,ebay-fruity,5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,19.8,0.00,£0.07,4.1,0
+MIX6837034172,ebay-fruity,5,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,19.8,0.00,£0.07,4.1,0
+MIX6837034172,ebay-fruity,5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,19.8,0.00,£0.07,4.1,0
+MIX6837034172,ebay-fruity,5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,19.8,0.00,£0.07,3.6,0
+MIX6837034172,ebay-fruity,5,5,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,19.8,0.00,£0.07,3.9,0
+MIX510164533,ebay-50 mix,5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX510164533,ebay-50 mix,5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX510164533,ebay-50 mix,5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX510164533,ebay-50 mix,5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX510164533,ebay-50 mix,5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX2255047252,ebay-70 mix,7,7,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2255047252,ebay-70 mix,7,7,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,25.2,0.00,£0.07,3.6,1
+MIX2454243699,ebay-100 mix,10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,36.7,0.00,£0.07,3.9,0
+MIX2454243699,ebay-100 mix,10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,0
+MIX2454243699,ebay-100 mix,10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.7,0.00,£0.07,3.6,0
+MIX5948896031,ebay-Lungo Mix,5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX5948896031,ebay-Lungo Mix,5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX5948896031,ebay-Lungo Mix,5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX5948896031,ebay-Lungo Mix,5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX5948896031,ebay-Lungo Mix,5,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,19.3,0.00,£0.07,4.1,0
+MIX740388684,ebay-pure origin mix,5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX740388684,ebay-pure origin mix,5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.7,0.00,£0.07,3.8,0
+MIX740388684,ebay-pure origin mix,5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX740388684,ebay-pure origin mix,5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,19.7,0.00,£0.07,3.6,0
+MIX740388684,ebay-pure origin mix,5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX6704771417,"50 Nespresso Lungos and Ristretto Mix (Ristretto, Linizio Lungo, Vivalto Lungo, Fortissio Lungo, Envivo Lungo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,0
+MIX6704771417,"50 Nespresso Lungos and Ristretto Mix (Ristretto, Linizio Lungo, Vivalto Lungo, Fortissio Lungo, Envivo Lungo)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,0
+MIX6704771417,"50 Nespresso Lungos and Ristretto Mix (Ristretto, Linizio Lungo, Vivalto Lungo, Fortissio Lungo, Envivo Lungo)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,0
+MIX6704771417,"50 Nespresso Lungos and Ristretto Mix (Ristretto, Linizio Lungo, Vivalto Lungo, Fortissio Lungo, Envivo Lungo)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.8,0.00,£0.07,3.6,0
+MIX6704771417,"50 Nespresso Lungos and Ristretto Mix (Ristretto, Linizio Lungo, Vivalto Lungo, Fortissio Lungo, Envivo Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,0
+MIX4627326304,"40 Nespresso mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX4627326304,"40 Nespresso mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,14.6,0.00,£0.07,3.8,0
+MIX4627326304,"40 Nespresso mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX4627326304,"40 Nespresso mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX8000803374,INTENSE SELECTION VERTUO,5,5,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,23.7,0.00,£0.07,5.5,0
+MIX8000803374,INTENSE SELECTION VERTUO,5,5,1,7630039677909,NO,Vertuo,Odacio,5.5,5.5,23.7,0.00,£0.07,5.5,0
+MIX8000803374,INTENSE SELECTION VERTUO,5,5,1,7630039678067,NO,Vertuo,Fortado,4.9,4.9,23.7,0.00,£0.07,4.9,0
+MIX8000803374,INTENSE SELECTION VERTUO,5,5,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,23.7,0.00,£0.07,3.9,0
+MIX8000803374,INTENSE SELECTION VERTUO,5,5,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,23.7,0.00,£0.07,3.9,0
+MIX3502515588,MILD SELECTION vertuo,5,5,1,7630039678180,NO,Vertuo,Giornio,5.5,5.5,26.3,0.00,£0.07,5.5,0
+MIX3502515588,MILD SELECTION vertuo,5,5,1,7630039678203,NO,Vertuo,Solelio,5.5,5.5,26.3,0.00,£0.07,5.5,0
+MIX3502515588,MILD SELECTION vertuo,5,5,1,7630039678104,NO,Vertuo,Aflorazio,4.7,4.7,26.3,0.00,£0.07,4.7,0
+MIX3502515588,MILD SELECTION vertuo,5,5,1,7630039678029,NO,Vertuo,Voltesso,3.9,3.9,26.3,0.00,£0.07,3.9,0
+MIX3502515588,MILD SELECTION vertuo,5,5,1,7630039690113,NO,Vertuo,Alto Dolce,6.7,6.7,26.3,0.00,£0.07,6.7,0
+MIX1051501004,FRUITY SELECTION vertuo,4,4,1,7630039677886,NO,Vertuo,ELVAZIO,5.5,5.5,22,0.00,£0.07,5.5,0
+MIX1051501004,FRUITY SELECTION vertuo,4,4,1,7630039678203,NO,Vertuo,Solelio,5.5,5.5,22,0.00,£0.07,5.5,0
+MIX1051501004,FRUITY SELECTION vertuo,4,4,1,7630039678180,NO,Vertuo,Giornio,5.5,5.5,22,0.00,£0.07,5.5,0
+MIX1051501004,FRUITY SELECTION vertuo,4,4,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,22,0.00,£0.07,5.5,0
+MIX8037496380,BALANCED SELECTION vertuo,4,4,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,22.1,0.00,£0.07,5.5,0
+MIX8037496380,BALANCED SELECTION vertuo,4,4,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,22.1,0.00,£0.07,6,0
+MIX8037496380,BALANCED SELECTION vertuo,4,4,1,7630039677947,NO,Vertuo,Decaffeinato,5.7,5.7,22.1,0.00,£0.07,5.7,0
+MIX8037496380,BALANCED SELECTION vertuo,4,4,1,7630039678081,NO,Vertuo,Arondio,4.9,4.9,22.1,0.00,£0.07,4.9,0
+MIX7926866271,DECAFF SELECTION vertuo,3,3,1,7630039677947,NO,Vertuo,Decaffeinato,5.7,5.7,14.9,0.00,£0.07,5.7,0
+MIX7926866271,DECAFF SELECTION vertuo,3,3,1,7630039678128,NO,Vertuo,Decaffeinato Ontuoso,5.1,5.1,14.9,0.00,£0.07,5.1,0
+MIX7926866271,DECAFF SELECTION vertuo,3,3,1,7630039678043,NO,Vertuo,Decaf Intenso,4.1,4.1,14.9,0.00,£0.07,4.1,0
+MIX3510569618,LIMITED EDITION vertuo,3,3,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,18,0.00,£0.07,6,0
+MIX3510569618,LIMITED EDITION vertuo,3,3,1,704407757498,NO,Vertuo,Caramel Cookie,6,6,18,0.00,£0.07,6,0
+MIX3510569618,LIMITED EDITION vertuo,3,3,1,7630039677862,NO,Vertuo,Vanilla Custard,6,6,18,0.00,£0.07,6,0
+MIX5627639516,"30 Pure Origin (India, Colombia, Nicaragua)",3,3,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX5627639516,"30 Pure Origin (India, Colombia, Nicaragua)",3,3,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX5627639516,"30 Pure Origin (India, Colombia, Nicaragua)",3,3,1,7630039695187,NO,Nespresso,India,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX4752263921,"Nespresso Vertuoline Coffee Capsules Assortment (Stormio, Odacio, Melozio)",3,3,1,7630039677909,NO,Vertuo,Odacio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4752263921,"Nespresso Vertuoline Coffee Capsules Assortment (Stormio, Odacio, Melozio)",3,3,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4752263921,"Nespresso Vertuoline Coffee Capsules Assortment (Stormio, Odacio, Melozio)",3,3,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX6960661204,"Vertuo Original Mix (Melozio, Fortado, Stormio)",3,3,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,15.9,0.00,£0.07,5.5,1
+MIX6960661204,"Vertuo Original Mix (Melozio, Fortado, Stormio)",3,3,1,7630039678067,NO,Vertuo,Fortado,4.9,4.9,15.9,0.00,£0.07,4.9,1
+MIX6960661204,"Vertuo Original Mix (Melozio, Fortado, Stormio)",3,3,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,15.9,0.00,£0.07,5.5,1
+MIX6269613198,"Vertuo Gran Lungo Selection (Fortado, Arondio, Alforazio)",3,3,1,7630039678067,NO,Vertuo,Fortado,4.9,4.9,14.5,0.00,£0.07,4.9,1
+MIX6269613198,"Vertuo Gran Lungo Selection (Fortado, Arondio, Alforazio)",3,3,1,7630039678081,NO,Vertuo,Arondio,4.9,4.9,14.5,0.00,£0.07,4.9,1
+MIX6269613198,"Vertuo Gran Lungo Selection (Fortado, Arondio, Alforazio)",3,3,1,7630039678104,NO,Vertuo,Aflorazio,4.7,4.7,14.5,0.00,£0.07,4.7,1
+MIX8857469141,"Vertuo Decaf Selection (Decaf Ontuoso, Decaf Intenso, Decaffeinato)",3,3,1,7630039678128,NO,Vertuo,Decaffeinato Ontuoso,5.1,5.1,14.9,0.00,£0.07,5.1,1
+MIX8857469141,"Vertuo Decaf Selection (Decaf Ontuoso, Decaf Intenso, Decaffeinato)",3,3,1,7630039678043,NO,Vertuo,Decaf Intenso,4.1,4.1,14.9,0.00,£0.07,4.1,1
+MIX8857469141,"Vertuo Decaf Selection (Decaf Ontuoso, Decaf Intenso, Decaffeinato)",3,3,1,7630039677947,NO,Vertuo,Decaffeinato,5.7,5.7,14.9,0.00,£0.07,5.7,1
+MIX4176962986,"Vertuo Mild Selection (Elvazio, Giornio, Solelio)",3,3,1,7630039677886,NO,Vertuo,ELVAZIO,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4176962986,"Vertuo Mild Selection (Elvazio, Giornio, Solelio)",3,3,1,7630039678180,NO,Vertuo,Giornio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4176962986,"Vertuo Mild Selection (Elvazio, Giornio, Solelio)",3,3,1,7630039678203,NO,Vertuo,Solelio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX5907050770,"Vertuo Mild Selection 2 (alforazio, Voltesso, Alto Dolche)",3,3,1,7630039678104,NO,Vertuo,Aflorazio,4.7,4.7,15.3,0.00,£0.07,4.7,1
+MIX5907050770,"Vertuo Mild Selection 2 (alforazio, Voltesso, Alto Dolche)",3,3,1,7630039678029,NO,Vertuo,Voltesso,3.9,3.9,15.3,0.00,£0.07,3.9,1
+MIX5907050770,"Vertuo Mild Selection 2 (alforazio, Voltesso, Alto Dolche)",3,3,1,7630039690113,NO,Vertuo,Alto Dolce,6.7,6.7,15.3,0.00,£0.07,6.7,1
+MIX8187861073,"Vertuo Espresso Selection (Altissio, Diavolitto, Voltesso)",3,3,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,11.7,0.00,£0.07,3.9,1
+MIX8187861073,"Vertuo Espresso Selection (Altissio, Diavolitto, Voltesso)",3,3,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,11.7,0.00,£0.07,3.9,1
+MIX8187861073,"Vertuo Espresso Selection (Altissio, Diavolitto, Voltesso)",3,3,1,7630039678029,NO,Vertuo,Voltesso,3.9,3.9,11.7,0.00,£0.07,3.9,1
+MIX2867955273,"Vertuo Intenso Selection (Altissio, Intenso, Diavolitto)",3,3,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,13.3,0.00,£0.07,3.9,1
+MIX2867955273,"Vertuo Intenso Selection (Altissio, Intenso, Diavolitto)",3,3,1,SELF9792126228,NO,Vertuo,Intenso,5.5,5.5,13.3,0.00,£0.07,5.5,1
+MIX2867955273,"Vertuo Intenso Selection (Altissio, Intenso, Diavolitto)",3,3,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,13.3,0.00,£0.07,3.9,1
+MIX4260848190,"Vertuo Fruity Selection (Solelio, Melozio, Elvazio)",3,3,1,7630039678203,NO,Vertuo,Solelio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4260848190,"Vertuo Fruity Selection (Solelio, Melozio, Elvazio)",3,3,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX4260848190,"Vertuo Fruity Selection (Solelio, Melozio, Elvazio)",3,3,1,7630039677886,NO,Vertuo,ELVAZIO,5.5,5.5,16.5,0.00,£0.07,5.5,1
+MIX1880702672,"Vertuo Limited Selection (Hazelino, Caramelizio, Vanizio)",3,3,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,18,0.00,£0.07,6,2
+MIX1880702672,"Vertuo Limited Selection (Hazelino, Caramelizio, Vanizio)",3,3,1,704407757498,NO,Vertuo,Caramel Cookie,6,6,18,0.00,£0.07,6,2
+MIX1880702672,"Vertuo Limited Selection (Hazelino, Caramelizio, Vanizio)",3,3,1,7630039677862,NO,Vertuo,Vanilla Custard,6,6,18,0.00,£0.07,6,2
+MIX5396820212,"Vertuo Balanced Selection (Melozio, Hazelino, Arondio)",3,3,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,16.4,0.00,£0.07,5.5,1
+MIX5396820212,"Vertuo Balanced Selection (Melozio, Hazelino, Arondio)",3,3,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,16.4,0.00,£0.07,6,1
+MIX5396820212,"Vertuo Balanced Selection (Melozio, Hazelino, Arondio)",3,3,1,7630039678081,NO,Vertuo,Arondio,4.9,4.9,16.4,0.00,£0.07,4.9,1
+MIX9371655741,"Nespresso Variety Pack (2x Indonesia, 1x Fortissio, 2x Capriccio)",5,3,2,7630039695088,NO,Nespresso,Indonesia,4.1,8.2,19.2,0.00,£0.14,8.2,1
+MIX9371655741,"Nespresso Variety Pack (2x Indonesia, 1x Fortissio, 2x Capriccio)",5,3,2,7640156771213,NO,Nespresso,Capriccio,3.6,7.2,19.2,0.00,£0.14,7.2,1
+MIX9371655741,"Nespresso Variety Pack (2x Indonesia, 1x Fortissio, 2x Capriccio)",5,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.2,0.00,£0.07,3.8,1
+MIX511317866,"Nespresso Variety Pack (Indonesia x2, Fortissio x2, Capriccio)",5,3,2,7630039695088,NO,Nespresso,Indonesia,4.1,8.2,19.2,0.00,£0.14,8.2,0
+MIX511317866,"Nespresso Variety Pack (Indonesia x2, Fortissio x2, Capriccio)",5,3,2,7640156771213,NO,Nespresso,Capriccio,3.6,7.2,19.2,0.00,£0.14,7.2,0
+MIX511317866,"Nespresso Variety Pack (Indonesia x2, Fortissio x2, Capriccio)",5,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.2,0.00,£0.07,3.8,0
+MIX449850339,"Nespresso Trio Pack (Livanto, Volluto, Capriccio)",3,3,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX449850339,"Nespresso Trio Pack (Livanto, Volluto, Capriccio)",3,3,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX449850339,"Nespresso Trio Pack (Livanto, Volluto, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX4678042007,"Nespresso Trio Pack (Livanto, Roma, Capriccio)",3,3,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX4678042007,"Nespresso Trio Pack (Livanto, Roma, Capriccio)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX4678042007,"Nespresso Trio Pack (Livanto, Roma, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX1863696466,"Nespresso Pods Pack (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX1863696466,"Nespresso Pods Pack (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX1863696466,"Nespresso Pods Pack (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX74660683,"Nespresso Variation Pack (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX74660683,"Nespresso Variation Pack (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX74660683,"Nespresso Variation Pack (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX8995981913,"Nespresso Limited Edition (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX8995981913,"Nespresso Limited Edition (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX8995981913,"Nespresso Limited Edition (Caramel Creme Brulee, Cocoa Truffle, Vanilla Eclair)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX5970701582,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto x2)",4,3,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX5970701582,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto x2)",4,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX5970701582,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto x2)",4,3,2,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,7.6,15.2,0.00,£0.14,7.6,0
+MIX619633963,"Nespresso Lungo Mixed (2x Linizio, Fortissio, Vivalto)",4,3,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,15.2,0.00,£0.14,7.6,0
+MIX619633963,"Nespresso Lungo Mixed (2x Linizio, Fortissio, Vivalto)",4,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX619633963,"Nespresso Lungo Mixed (2x Linizio, Fortissio, Vivalto)",4,3,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX4848892011,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto)",3,3,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX4848892011,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto)",3,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX4848892011,"Nespresso Lungo Mixed (Linizio, Fortissio, Vivalto)",3,3,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX1053698282,"Nespresso Variations (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX1053698282,"Nespresso Variations (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX1053698282,"Nespresso Variations (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,0
+MIX6832076740,"Nespresso Origin Mix (Nicaragua, Colombia, India)",3,3,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX6832076740,"Nespresso Origin Mix (Nicaragua, Colombia, India)",3,3,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX6832076740,"Nespresso Origin Mix (Nicaragua, Colombia, India)",3,3,1,7630039695187,NO,Nespresso,India,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX9567793172,"Nespresso Pure Origin Mix (Colombia, India, Nicaragua)",3,3,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX9567793172,"Nespresso Pure Origin Mix (Colombia, India, Nicaragua)",3,3,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX9567793172,"Nespresso Pure Origin Mix (Colombia, India, Nicaragua)",3,3,1,7630039695187,NO,Nespresso,India,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX2646185568,"Nespresso Trio Pack (Roma, Cosi, Capriccio)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX2646185568,"Nespresso Trio Pack (Roma, Cosi, Capriccio)",3,3,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX2646185568,"Nespresso Trio Pack (Roma, Cosi, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX2754857988,"Nespresso Decaf Variety (Decaf Arpeggio x2, Decaf Vivalto Lungo, Decaf Volluto x2)",5,3,2,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,7.8,19.3,0.00,£0.14,7.8,0
+MIX2754857988,"Nespresso Decaf Variety (Decaf Arpeggio x2, Decaf Vivalto Lungo, Decaf Volluto x2)",5,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,19.3,0.00,£0.07,3.9,0
+MIX2754857988,"Nespresso Decaf Variety (Decaf Arpeggio x2, Decaf Vivalto Lungo, Decaf Volluto x2)",5,3,2,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,7.6,19.3,0.00,£0.14,7.6,0
+MIX609502465,"Nespresso Decaf Mix (Decaf Ristretto, Decaf Arpeggio, Decaf Volluto)",3,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX609502465,"Nespresso Decaf Mix (Decaf Ristretto, Decaf Arpeggio, Decaf Volluto)",3,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX609502465,"Nespresso Decaf Mix (Decaf Ristretto, Decaf Arpeggio, Decaf Volluto)",3,3,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,11.6,0.00,£0.07,3.8,0
+MIX2107461877,"Nespresso Mixed Decaffeinatto (Decaf Volluto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,11.6,0.00,£0.07,3.8,0
+MIX2107461877,"Nespresso Mixed Decaffeinatto (Decaf Volluto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX2107461877,"Nespresso Mixed Decaffeinatto (Decaf Volluto, Decaf Arpeggio, Decaf Ristretto)",3,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX6108196392,"Nespresso Intense (Kazaar x2, Napoli x2, Ristretto)",5,3,2,7640156771473,NO,Nespresso,Kazaar,3.8,7.6,18.4,0.00,£0.14,7.6,0
+MIX6108196392,"Nespresso Intense (Kazaar x2, Napoli x2, Ristretto)",5,3,2,SELF8155764730,NO,Nespresso,Napoli,3.6,7.2,18.4,0.00,£0.14,7.2,0
+MIX6108196392,"Nespresso Intense (Kazaar x2, Napoli x2, Ristretto)",5,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.4,0.00,£0.07,3.6,0
+MIX9493085949,"Nespresso Lungo Mixed (Fortissio, Vivalto, Envivo)",3,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX9493085949,"Nespresso Lungo Mixed (Fortissio, Vivalto, Envivo)",3,3,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX9493085949,"Nespresso Lungo Mixed (Fortissio, Vivalto, Envivo)",3,3,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,11.4,0.00,£0.07,3.8,0
+MIX9548776567,"Nespresso Variety Pack (Roma x2, Fortissio x2, Indonesia)",5,3,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,18.9,0.00,£0.14,7.2,0
+MIX9548776567,"Nespresso Variety Pack (Roma x2, Fortissio x2, Indonesia)",5,3,2,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,7.6,18.9,0.00,£0.14,7.6,0
+MIX9548776567,"Nespresso Variety Pack (Roma x2, Fortissio x2, Indonesia)",5,3,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,18.9,0.00,£0.07,4.1,0
+MIX7889410022,"Nespresso Trio Pack (Ristretto, Arpeggio, Fortissio)",3,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,11,0.00,£0.07,3.6,0
+MIX7889410022,"Nespresso Trio Pack (Ristretto, Arpeggio, Fortissio)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,11,0.00,£0.07,3.6,0
+MIX7889410022,"Nespresso Trio Pack (Ristretto, Arpeggio, Fortissio)",3,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,11,0.00,£0.07,3.8,0
+MIX4682960893,"Nespresso Pack (Ristretto, Arpeggio, Roma)",3,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX4682960893,"Nespresso Pack (Ristretto, Arpeggio, Roma)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX4682960893,"Nespresso Pack (Ristretto, Arpeggio, Roma)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,10.8,0.00,£0.07,3.6,0
+MIX2307622881,"Nespresso Variety Pack (Envivo, Arpeggio, Decaf Arpeggio)",3,3,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,11.3,0.00,£0.07,3.8,0
+MIX2307622881,"Nespresso Variety Pack (Envivo, Arpeggio, Decaf Arpeggio)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,11.3,0.00,£0.07,3.6,0
+MIX2307622881,"Nespresso Variety Pack (Envivo, Arpeggio, Decaf Arpeggio)",3,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,11.3,0.00,£0.07,3.9,0
+MIX5904391262,"Nespresso Iced Coffee Assortment (Ristretto x2, Vanillio x2, Ethopia)",5,3,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,19.9,0.00,£0.14,7.2,0
+MIX5904391262,"Nespresso Iced Coffee Assortment (Ristretto x2, Vanillio x2, Ethopia)",5,3,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,19.9,0.00,£0.07,4.1,0
+MIX5904391262,"Nespresso Iced Coffee Assortment (Ristretto x2, Vanillio x2, Ethopia)",5,3,2,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,8.6,19.9,0.00,£0.14,8.6,0
+MIX9094262879,"Nespresso Variety Pack (Indonesia, Fortissio, Roma)",3,3,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,11.5,0.00,£0.07,4.1,0
+MIX9094262879,"Nespresso Variety Pack (Indonesia, Fortissio, Roma)",3,3,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,11.5,0.00,£0.07,3.8,0
+MIX9094262879,"Nespresso Variety Pack (Indonesia, Fortissio, Roma)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,11.5,0.00,£0.07,3.6,0
+MIX6735392486,"Nespresso Limited Edition (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX6735392486,"Nespresso Limited Edition (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX6735392486,"Nespresso Limited Edition (Vanillio, Ciocattino, Caramelito)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX9821014914,"Nespresso Variety Pack (Arpeggio x2, Decaf Arpeggio x2, Evivo)",5,3,2,7640156771244,NO,Nespresso,Arpeggio,3.6,7.2,18.8,0.00,£0.14,7.2,0
+MIX9821014914,"Nespresso Variety Pack (Arpeggio x2, Decaf Arpeggio x2, Evivo)",5,3,2,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,7.8,18.8,0.00,£0.14,7.8,0
+MIX9821014914,"Nespresso Variety Pack (Arpeggio x2, Decaf Arpeggio x2, Evivo)",5,3,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,0
+MIX221231827,"Nespresso Origin Pack (India x2, Columbia x2, Nicaragua x2)",6,3,2,7630039695187,NO,Nespresso,India,4.1,8.2,24.6,0.00,£0.14,8.2,0
+MIX221231827,"Nespresso Origin Pack (India x2, Columbia x2, Nicaragua x2)",6,3,2,7630039695668,NO,Nespresso,Colombia,4.1,8.2,24.6,0.00,£0.14,8.2,0
+MIX221231827,"Nespresso Origin Pack (India x2, Columbia x2, Nicaragua x2)",6,3,2,7630039695460,NO,Nespresso,Nicaragua,4.1,8.2,24.6,0.00,£0.14,8.2,0
+MIX3019523521,"Nespresso Variety Pack (Indonesia, Columbia, Ethiopia)",3,3,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX3019523521,"Nespresso Variety Pack (Indonesia, Columbia, Ethiopia)",3,3,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX3019523521,"Nespresso Variety Pack (Indonesia, Columbia, Ethiopia)",3,3,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX2470805951,"Nespresso Sortiment Colombia, Inida, Nicaragua)",3,3,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX2470805951,"Nespresso Sortiment Colombia, Inida, Nicaragua)",3,3,1,7630039695187,NO,Nespresso,India,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX2470805951,"Nespresso Sortiment Colombia, Inida, Nicaragua)",3,3,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,12.3,0.00,£0.07,4.1,0
+MIX6038023098,"Nespresso Vertuoline Assortment (Vanizio, Caramelizio, Hazelino)",3,3,1,7630039677862,NO,Vertuo,Vanilla Custard,6,6,18,0.00,£0.07,6,0
+MIX6038023098,"Nespresso Vertuoline Assortment (Vanizio, Caramelizio, Hazelino)",3,3,1,704407757498,NO,Vertuo,Caramel Cookie,6,6,18,0.00,£0.07,6,0
+MIX6038023098,"Nespresso Vertuoline Assortment (Vanizio, Caramelizio, Hazelino)",3,3,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,18,0.00,£0.07,6,0
+MIX4878815781,"Nespresso Decaf Pack (Decaf Ristretto, Decaf Arpeggio, Decaf Volutto)",3,3,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,11.6,0.00,£0.07,3.8,0
+MIX4878815781,"Nespresso Decaf Pack (Decaf Ristretto, Decaf Arpeggio, Decaf Volutto)",3,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX4878815781,"Nespresso Decaf Pack (Decaf Ristretto, Decaf Arpeggio, Decaf Volutto)",3,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,11.6,0.00,£0.07,3.9,0
+MIX2852589511,ESPRESSO SELECTION vertuo,4,4,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,15.8,0.00,£0.07,3.9,0
+MIX2852589511,ESPRESSO SELECTION vertuo,4,4,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,15.8,0.00,£0.07,3.9,0
+MIX2852589511,ESPRESSO SELECTION vertuo,4,4,1,7630039678029,NO,Vertuo,Voltesso,3.9,3.9,15.8,0.00,£0.07,3.9,0
+MIX2852589511,ESPRESSO SELECTION vertuo,4,4,1,7630039678043,NO,Vertuo,Decaf Intenso,4.1,4.1,15.8,0.00,£0.07,4.1,0
+MIX1713992478,GRAN LUNGO SELECTION vertuo,4,4,1,7630039678067,NO,Vertuo,Fortado,4.9,4.9,19.6,0.00,£0.07,4.9,0
+MIX1713992478,GRAN LUNGO SELECTION vertuo,4,4,1,7630039678081,NO,Vertuo,Arondio,4.9,4.9,19.6,0.00,£0.07,4.9,0
+MIX1713992478,GRAN LUNGO SELECTION vertuo,4,4,1,7630039678104,NO,Vertuo,Aflorazio,4.7,4.7,19.6,0.00,£0.07,4.7,0
+MIX1713992478,GRAN LUNGO SELECTION vertuo,4,4,1,7630039678128,NO,Vertuo,Decaffeinato Ontuoso,5.1,5.1,19.6,0.00,£0.07,5.1,0
+MIX3867398506,"Decaffeinated Mixed Set (Decaf Arpeggio, 2 x Decaf Volluto, 2x Decaf Ristretto)",5,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,19.3,0.00,£0.07,3.9,1
+MIX3867398506,"Decaffeinated Mixed Set (Decaf Arpeggio, 2 x Decaf Volluto, 2x Decaf Ristretto)",5,3,2,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,7.6,19.3,0.00,£0.14,7.6,1
+MIX3867398506,"Decaffeinated Mixed Set (Decaf Arpeggio, 2 x Decaf Volluto, 2x Decaf Ristretto)",5,3,2,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,7.8,19.3,0.00,£0.14,7.8,1
+MIX1238489846,"Nespresso Espresso (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,14.4,0.00,£0.07,3.6,0
+MIX1238489846,"Nespresso Espresso (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,14.4,0.00,£0.07,3.6,0
+MIX1238489846,"Nespresso Espresso (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,14.4,0.00,£0.07,3.6,0
+MIX1238489846,"Nespresso Espresso (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,14.4,0.00,£0.07,3.6,0
+MIX3345266431,"Nespresso Mix (Decaf Arpeggio, Decaf Volluto, 2x Decaf Ristretto)",4,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,15.5,0.00,£0.07,3.9,0
+MIX3345266431,"Nespresso Mix (Decaf Arpeggio, Decaf Volluto, 2x Decaf Ristretto)",4,3,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,15.5,0.00,£0.07,3.8,0
+MIX3345266431,"Nespresso Mix (Decaf Arpeggio, Decaf Volluto, 2x Decaf Ristretto)",4,3,2,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,7.8,15.5,0.00,£0.14,7.8,0
+MIX7225856838,"Nespresso Pure Origin Mix (Nicaragua, Colombia, India, Ethopia x2)",5,4,2,7630039695569,NO,Nespresso,Ethiopia,4.1,8.2,20.5,0.00,£0.14,8.2,0
+MIX7225856838,"Nespresso Pure Origin Mix (Nicaragua, Colombia, India, Ethopia x2)",5,4,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,20.5,0.00,£0.07,4.1,0
+MIX7225856838,"Nespresso Pure Origin Mix (Nicaragua, Colombia, India, Ethopia x2)",5,4,1,7630039695187,NO,Nespresso,India,4.1,4.1,20.5,0.00,£0.07,4.1,0
+MIX7225856838,"Nespresso Pure Origin Mix (Nicaragua, Colombia, India, Ethopia x2)",5,4,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,20.5,0.00,£0.07,4.1,0
+MIX7702826384,"Nespresso Decaf Mixed (Decaf Ristretto x2, Decaf Arpeggio, 2 x Decaf Volluto)",5,3,2,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,7.8,19.3,0.00,£0.14,7.8,0
+MIX7702826384,"Nespresso Decaf Mixed (Decaf Ristretto x2, Decaf Arpeggio, 2 x Decaf Volluto)",5,3,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,19.3,0.00,£0.07,3.9,0
+MIX7702826384,"Nespresso Decaf Mixed (Decaf Ristretto x2, Decaf Arpeggio, 2 x Decaf Volluto)",5,3,2,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,7.6,19.3,0.00,£0.14,7.6,0
+MIX1352393761,"Nespresso Lungo (Vivalto, Linizio, Ethiopia, Fortissio)",4,4,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX1352393761,"Nespresso Lungo (Vivalto, Linizio, Ethiopia, Fortissio)",4,4,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX1352393761,"Nespresso Lungo (Vivalto, Linizio, Ethiopia, Fortissio)",4,4,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX1352393761,"Nespresso Lungo (Vivalto, Linizio, Ethiopia, Fortissio)",4,4,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,0
+MIX5849979069,"Nespresso Decaf Pack (Decaf Arpeggio x4, Decaf Volluto x3, Decaf Restritto x4)",10,3,3,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,11.7,31,0.00,£0.21,11.7,0
+MIX5849979069,"Nespresso Decaf Pack (Decaf Arpeggio x4, Decaf Volluto x3, Decaf Restritto x4)",10,3,2,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,7.6,31,0.00,£0.14,7.6,0
+MIX5849979069,"Nespresso Decaf Pack (Decaf Arpeggio x4, Decaf Volluto x3, Decaf Restritto x4)",10,3,3,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,11.7,31,0.00,£0.21,11.7,0
+MIX219464929,"Nespresso Lungo Sortiment (Decaf Ristretto, Vivalto, Fortissio, Linizio x2)",5,4,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,19.1,0.00,£0.14,7.6,0
+MIX219464929,"Nespresso Lungo Sortiment (Decaf Ristretto, Vivalto, Fortissio, Linizio x2)",5,4,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX219464929,"Nespresso Lungo Sortiment (Decaf Ristretto, Vivalto, Fortissio, Linizio x2)",5,4,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX219464929,"Nespresso Lungo Sortiment (Decaf Ristretto, Vivalto, Fortissio, Linizio x2)",5,4,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,19.1,0.00,£0.07,3.9,0
+MIX5778108038,"Nespresso Mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,14.6,0.00,£0.07,3.8,0
+MIX5778108038,"Nespresso Mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX5778108038,"Nespresso Mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX5778108038,"Nespresso Mix (Kazaar, Napoli, Ristretto, Roma)",4,4,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,14.6,0.00,£0.07,3.6,0
+MIX5446660635,"Nespresso Variety Pack (Kazzar, Napoli, Ristretto, India)",7,4,2,7640156771473,NO,Nespresso,Kazaar,3.8,7.6,26.1,0.00,£0.14,7.6,0
+MIX5446660635,"Nespresso Variety Pack (Kazzar, Napoli, Ristretto, India)",7,4,2,SELF8155764730,NO,Nespresso,Napoli,3.6,7.2,26.1,0.00,£0.14,7.2,0
+MIX5446660635,"Nespresso Variety Pack (Kazzar, Napoli, Ristretto, India)",7,4,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,26.1,0.00,£0.14,7.2,0
+MIX5446660635,"Nespresso Variety Pack (Kazzar, Napoli, Ristretto, India)",7,4,1,7630039695187,NO,Nespresso,India,4.1,4.1,26.1,0.00,£0.07,4.1,0
+MIX5794655924,"Vertuoline Intense Assortment (Stormio, Odacio, Diavollito, Altissio)",4,4,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,18.8,0.00,£0.07,5.5,0
+MIX5794655924,"Vertuoline Intense Assortment (Stormio, Odacio, Diavollito, Altissio)",4,4,1,7630039677909,NO,Vertuo,Odacio,5.5,5.5,18.8,0.00,£0.07,5.5,0
+MIX5794655924,"Vertuoline Intense Assortment (Stormio, Odacio, Diavollito, Altissio)",4,4,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,18.8,0.00,£0.07,3.9,0
+MIX5794655924,"Vertuoline Intense Assortment (Stormio, Odacio, Diavollito, Altissio)",4,4,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,18.8,0.00,£0.07,3.9,0
+MIX8172009222,"Nespresso Mixed Set (Volluto. Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX8172009222,"Nespresso Mixed Set (Volluto. Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX8172009222,"Nespresso Mixed Set (Volluto. Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX8172009222,"Nespresso Mixed Set (Volluto. Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX8172009222,"Nespresso Mixed Set (Volluto. Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX6366533645,"Lungo and Ristretto Mix (Vivalto Lungo, Evivo Lungo, Ristretto, Fortisio Lungo, Linizio Lungo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,1
+MIX6366533645,"Lungo and Ristretto Mix (Vivalto Lungo, Evivo Lungo, Ristretto, Fortisio Lungo, Linizio Lungo)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,1
+MIX6366533645,"Lungo and Ristretto Mix (Vivalto Lungo, Evivo Lungo, Ristretto, Fortisio Lungo, Linizio Lungo)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,1
+MIX6366533645,"Lungo and Ristretto Mix (Vivalto Lungo, Evivo Lungo, Ristretto, Fortisio Lungo, Linizio Lungo)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.8,0.00,£0.07,3.6,1
+MIX6366533645,"Lungo and Ristretto Mix (Vivalto Lungo, Evivo Lungo, Ristretto, Fortisio Lungo, Linizio Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.8,0.00,£0.07,3.8,1
+MIX2844765878,"50 capsules mix (Vivalto Lungo, Cosi, Volluto, Roma, Arpeggio)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.2,0.00,£0.07,3.8,0
+MIX2844765878,"50 capsules mix (Vivalto Lungo, Cosi, Volluto, Roma, Arpeggio)",5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX2844765878,"50 capsules mix (Vivalto Lungo, Cosi, Volluto, Roma, Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX2844765878,"50 capsules mix (Vivalto Lungo, Cosi, Volluto, Roma, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX2844765878,"50 capsules mix (Vivalto Lungo, Cosi, Volluto, Roma, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX2552573200,"50 NESPRESSO COFFEE CAPSULES (VOLLUTO, ROMA, COSI, VIVALTO LUNGO, ARPEGGIO)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX2552573200,"50 NESPRESSO COFFEE CAPSULES (VOLLUTO, ROMA, COSI, VIVALTO LUNGO, ARPEGGIO)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX2552573200,"50 NESPRESSO COFFEE CAPSULES (VOLLUTO, ROMA, COSI, VIVALTO LUNGO, ARPEGGIO)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX2552573200,"50 NESPRESSO COFFEE CAPSULES (VOLLUTO, ROMA, COSI, VIVALTO LUNGO, ARPEGGIO)",5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX2552573200,"50 NESPRESSO COFFEE CAPSULES (VOLLUTO, ROMA, COSI, VIVALTO LUNGO, ARPEGGIO)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.2,0.00,£0.07,3.8,1
+MIX6231277808,"50 Nespresso Special Mixed Variety (Arpeggio, Roma, Ristretto, Capriccio, Livanto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6231277808,"50 Nespresso Special Mixed Variety (Arpeggio, Roma, Ristretto, Capriccio, Livanto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6231277808,"50 Nespresso Special Mixed Variety (Arpeggio, Roma, Ristretto, Capriccio, Livanto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6231277808,"50 Nespresso Special Mixed Variety (Arpeggio, Roma, Ristretto, Capriccio, Livanto)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6231277808,"50 Nespresso Special Mixed Variety (Arpeggio, Roma, Ristretto, Capriccio, Livanto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX6030037534,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Arpeggio)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.2,0.00,£0.07,3.8,1
+MIX6030037534,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Arpeggio)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6030037534,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6030037534,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Arpeggio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6030037534,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX3588525046,"50 Nespresso intenso selection (india, Kazaar, Ristretto, Arpegio, Roma)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.7,0.00,£0.07,4.1,0
+MIX3588525046,"50 Nespresso intenso selection (india, Kazaar, Ristretto, Arpegio, Roma)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,18.7,0.00,£0.07,3.8,0
+MIX3588525046,"50 Nespresso intenso selection (india, Kazaar, Ristretto, Arpegio, Roma)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX3588525046,"50 Nespresso intenso selection (india, Kazaar, Ristretto, Arpegio, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX3588525046,"50 Nespresso intenso selection (india, Kazaar, Ristretto, Arpegio, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX602644780,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Linzio Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.4,0.00,£0.07,3.8,1
+MIX602644780,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Linzio Lungo)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX602644780,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Linzio Lungo)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX602644780,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Linzio Lungo)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX602644780,"Assorted Nespresso Capsules for Coffee Maker, Assortment (Fortissio Lungo, Ristretto, Volluto, Capriccio, Linzio Lungo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,18.4,0.00,£0.07,3.8,1
+MIX8979207454,"Intense Family Pack (India, Ristretto, Arpeggio, Roma, Fortissio Lungo)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.7,0.00,£0.07,4.1,1
+MIX8979207454,"Intense Family Pack (India, Ristretto, Arpeggio, Roma, Fortissio Lungo)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.7,0.00,£0.07,3.6,1
+MIX8979207454,"Intense Family Pack (India, Ristretto, Arpeggio, Roma, Fortissio Lungo)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,1
+MIX8979207454,"Intense Family Pack (India, Ristretto, Arpeggio, Roma, Fortissio Lungo)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.7,0.00,£0.07,3.6,1
+MIX8979207454,"Intense Family Pack (India, Ristretto, Arpeggio, Roma, Fortissio Lungo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.7,0.00,£0.07,3.8,1
+MIX3982362286,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.5,0.00,£0.07,4.1,1
+MIX3982362286,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.5,0.00,£0.07,3.6,1
+MIX3982362286,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.5,0.00,£0.07,3.6,1
+MIX3982362286,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18.5,0.00,£0.07,3.6,1
+MIX3982362286,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.5,0.00,£0.07,3.6,1
+MIX7518171149,"Nespresso Capsules (Roma, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX7518171149,"Nespresso Capsules (Roma, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.4,0.00,£0.07,3.8,1
+MIX7518171149,"Nespresso Capsules (Roma, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX7518171149,"Nespresso Capsules (Roma, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.4,0.00,£0.07,3.6,1
+MIX7518171149,"Nespresso Capsules (Roma, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,18.4,0.00,£0.07,3.8,1
+MIX2097119037,"Nespresso Capsules (Vivalto, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.6,0.00,£0.07,3.6,1
+MIX2097119037,"Nespresso Capsules (Vivalto, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.6,0.00,£0.07,3.8,1
+MIX2097119037,"Nespresso Capsules (Vivalto, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.6,0.00,£0.07,3.6,1
+MIX2097119037,"Nespresso Capsules (Vivalto, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.6,0.00,£0.07,3.8,1
+MIX2097119037,"Nespresso Capsules (Vivalto, Ristretto, Fortissio, Arpeggio, Volluto Decaffinated)",5,5,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,18.6,0.00,£0.07,3.8,1
+MIX137590574,"Nespresso Mixed Variety (Volluto, Arpeggio, Livanto, Capriccio, Roma)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX137590574,"Nespresso Mixed Variety (Volluto, Arpeggio, Livanto, Capriccio, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX137590574,"Nespresso Mixed Variety (Volluto, Arpeggio, Livanto, Capriccio, Roma)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX137590574,"Nespresso Mixed Variety (Volluto, Arpeggio, Livanto, Capriccio, Roma)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX137590574,"Nespresso Mixed Variety (Volluto, Arpeggio, Livanto, Capriccio, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX1950942266,"Nespresso Variety Pack (Caramelito, Vanillio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,20.6,0.00,£0.07,4.3,0
+MIX1950942266,"Nespresso Variety Pack (Caramelito, Vanillio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,20.6,0.00,£0.07,4.3,0
+MIX1950942266,"Nespresso Variety Pack (Caramelito, Vanillio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,20.6,0.00,£0.07,4.3,0
+MIX1950942266,"Nespresso Variety Pack (Caramelito, Vanillio, Ciocattino, Nicaragua, Volluto)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,20.6,0.00,£0.07,4.1,0
+MIX1950942266,"Nespresso Variety Pack (Caramelito, Vanillio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,20.6,0.00,£0.07,3.6,0
+MIX8065179902,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.5,0.00,£0.07,4.1,0
+MIX8065179902,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX8065179902,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX8065179902,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX8065179902,"Nespresso OriginalLine (India, Roma, Ristretto, Livanto, Arpeggio",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX19603200,"Nespresso Intenso (Napoli, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX19603200,"Nespresso Intenso (Napoli, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX19603200,"Nespresso Intenso (Napoli, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX19603200,"Nespresso Intenso (Napoli, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,18.2,0.00,£0.07,3.8,0
+MIX19603200,"Nespresso Intenso (Napoli, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,0
+MIX9458462501,"Nespresso Assorted (Fortissio, Ristretto, Volluto, Capriccio, Linzio)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.4,0.00,£0.07,3.8,0
+MIX9458462501,"Nespresso Assorted (Fortissio, Ristretto, Volluto, Capriccio, Linzio)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.4,0.00,£0.07,3.6,0
+MIX9458462501,"Nespresso Assorted (Fortissio, Ristretto, Volluto, Capriccio, Linzio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18.4,0.00,£0.07,3.6,0
+MIX9458462501,"Nespresso Assorted (Fortissio, Ristretto, Volluto, Capriccio, Linzio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.4,0.00,£0.07,3.6,0
+MIX9458462501,"Nespresso Assorted (Fortissio, Ristretto, Volluto, Capriccio, Linzio)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,18.4,0.00,£0.07,3.8,0
+MIX8595925579,"Nespresso Variety Pack (Ethopia, Cosi, Linizio, Volluto x2, Vivalto Lungo x2)",7,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,26.3,0.00,£0.07,4.1,0
+MIX8595925579,"Nespresso Variety Pack (Ethopia, Cosi, Linizio, Volluto x2, Vivalto Lungo x2)",7,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,26.3,0.00,£0.07,3.8,0
+MIX8595925579,"Nespresso Variety Pack (Ethopia, Cosi, Linizio, Volluto x2, Vivalto Lungo x2)",7,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,26.3,0.00,£0.07,3.6,0
+MIX8595925579,"Nespresso Variety Pack (Ethopia, Cosi, Linizio, Volluto x2, Vivalto Lungo x2)",7,5,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,26.3,0.00,£0.14,7.2,0
+MIX8595925579,"Nespresso Variety Pack (Ethopia, Cosi, Linizio, Volluto x2, Vivalto Lungo x2)",7,5,2,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,7.6,26.3,0.00,£0.14,7.6,0
+MIX9504251157,"Nespresso Sortiment (Arpeggio, Vivalto, Colombia, Cosi, Volluto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX9504251157,"Nespresso Sortiment (Arpeggio, Vivalto, Colombia, Cosi, Volluto)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.7,0.00,£0.07,3.8,0
+MIX9504251157,"Nespresso Sortiment (Arpeggio, Vivalto, Colombia, Cosi, Volluto)",5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,18.7,0.00,£0.07,4.1,0
+MIX9504251157,"Nespresso Sortiment (Arpeggio, Vivalto, Colombia, Cosi, Volluto)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX9504251157,"Nespresso Sortiment (Arpeggio, Vivalto, Colombia, Cosi, Volluto)",5,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX3812568174,"Nespresso Variety Pack (Ristretto, Arpeggio, Decaf Ristretto, Decaf Arpeggio, Roma)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.6,0.00,£0.07,3.6,0
+MIX3812568174,"Nespresso Variety Pack (Ristretto, Arpeggio, Decaf Ristretto, Decaf Arpeggio, Roma)",5,5,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,18.6,0.00,£0.07,3.9,0
+MIX3812568174,"Nespresso Variety Pack (Ristretto, Arpeggio, Decaf Ristretto, Decaf Arpeggio, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.6,0.00,£0.07,3.6,0
+MIX3812568174,"Nespresso Variety Pack (Ristretto, Arpeggio, Decaf Ristretto, Decaf Arpeggio, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.6,0.00,£0.07,3.6,0
+MIX3812568174,"Nespresso Variety Pack (Ristretto, Arpeggio, Decaf Ristretto, Decaf Arpeggio, Roma)",5,5,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,18.6,0.00,£0.07,3.9,0
+MIX9530991601,"Nespresso Variety Pack (Envivo Lungo x2, Fortissio x2, Vivalto x2, Linizio x2, Decaf Vivalto x2)",10,5,2,7630030359729,NO,Nespresso,Envivo Lungo,3.8,7.6,38.2,0.00,£0.14,7.6,0
+MIX9530991601,"Nespresso Variety Pack (Envivo Lungo x2, Fortissio x2, Vivalto x2, Linizio x2, Decaf Vivalto x2)",10,5,2,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,7.6,38.2,0.00,£0.14,7.6,0
+MIX9530991601,"Nespresso Variety Pack (Envivo Lungo x2, Fortissio x2, Vivalto x2, Linizio x2, Decaf Vivalto x2)",10,5,2,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,7.6,38.2,0.00,£0.14,7.6,0
+MIX9530991601,"Nespresso Variety Pack (Envivo Lungo x2, Fortissio x2, Vivalto x2, Linizio x2, Decaf Vivalto x2)",10,5,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,38.2,0.00,£0.14,7.6,0
+MIX9530991601,"Nespresso Variety Pack (Envivo Lungo x2, Fortissio x2, Vivalto x2, Linizio x2, Decaf Vivalto x2)",10,5,2,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,7.8,38.2,0.00,£0.14,7.8,0
+MIX8247709518,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, India, Decaf Ristretto)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,19,0.00,£0.07,3.8,0
+MIX8247709518,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, India, Decaf Ristretto)",5,5,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,19,0.00,£0.07,3.6,0
+MIX8247709518,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, India, Decaf Ristretto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,19,0.00,£0.07,3.6,0
+MIX8247709518,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, India, Decaf Ristretto)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,19,0.00,£0.07,4.1,0
+MIX8247709518,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, India, Decaf Ristretto)",5,5,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,19,0.00,£0.07,3.9,0
+MIX5704302084,"Nespresso Mixed Variety Pack (Kazaar, Napoli, India froom India, Nicaragua, Volluto)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,19.2,0.00,£0.07,3.8,0
+MIX5704302084,"Nespresso Mixed Variety Pack (Kazaar, Napoli, India froom India, Nicaragua, Volluto)",5,5,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,19.2,0.00,£0.07,3.6,0
+MIX5704302084,"Nespresso Mixed Variety Pack (Kazaar, Napoli, India froom India, Nicaragua, Volluto)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,19.2,0.00,£0.07,4.1,0
+MIX5704302084,"Nespresso Mixed Variety Pack (Kazaar, Napoli, India froom India, Nicaragua, Volluto)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,19.2,0.00,£0.07,4.1,0
+MIX5704302084,"Nespresso Mixed Variety Pack (Kazaar, Napoli, India froom India, Nicaragua, Volluto)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,19.2,0.00,£0.07,3.6,0
+MIX4223585200,"Nespresso Variety Pack (Kazaar x2, Dharkan x2, Ristretto x2, India x2, Decaf Ristretto x2)",10,5,2,7640156771473,NO,Nespresso,Kazaar,3.8,7.6,38,0.00,£0.14,7.6,0
+MIX4223585200,"Nespresso Variety Pack (Kazaar x2, Dharkan x2, Ristretto x2, India x2, Decaf Ristretto x2)",10,5,2,SELF8155764730,NO,Nespresso,Napoli,3.6,7.2,38,0.00,£0.14,7.2,0
+MIX4223585200,"Nespresso Variety Pack (Kazaar x2, Dharkan x2, Ristretto x2, India x2, Decaf Ristretto x2)",10,5,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,38,0.00,£0.14,7.2,0
+MIX4223585200,"Nespresso Variety Pack (Kazaar x2, Dharkan x2, Ristretto x2, India x2, Decaf Ristretto x2)",10,5,2,7630039695187,NO,Nespresso,India,4.1,8.2,38,0.00,£0.14,8.2,0
+MIX4223585200,"Nespresso Variety Pack (Kazaar x2, Dharkan x2, Ristretto x2, India x2, Decaf Ristretto x2)",10,5,2,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,7.8,38,0.00,£0.14,7.8,0
+MIX923055713,"Nespresso Lungo Set (Linizio, Fortissio, Ethiopia, Vivalto, Envivo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX923055713,"Nespresso Lungo Set (Linizio, Fortissio, Ethiopia, Vivalto, Envivo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX923055713,"Nespresso Lungo Set (Linizio, Fortissio, Ethiopia, Vivalto, Envivo)",5,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,19.3,0.00,£0.07,4.1,0
+MIX923055713,"Nespresso Lungo Set (Linizio, Fortissio, Ethiopia, Vivalto, Envivo)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX923055713,"Nespresso Lungo Set (Linizio, Fortissio, Ethiopia, Vivalto, Envivo)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19.3,0.00,£0.07,3.8,0
+MIX5974527168,"Nespresso Intense Pack (India, Fortissio, Roma, Arpeggio, Ristretto)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.7,0.00,£0.07,4.1,0
+MIX5974527168,"Nespresso Intense Pack (India, Fortissio, Roma, Arpeggio, Ristretto)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.7,0.00,£0.07,3.8,0
+MIX5974527168,"Nespresso Intense Pack (India, Fortissio, Roma, Arpeggio, Ristretto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX5974527168,"Nespresso Intense Pack (India, Fortissio, Roma, Arpeggio, Ristretto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX5974527168,"Nespresso Intense Pack (India, Fortissio, Roma, Arpeggio, Ristretto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX2232614692,"Nespresso Intenso (India, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.7,0.00,£0.07,4.1,0
+MIX2232614692,"Nespresso Intenso (India, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,18.7,0.00,£0.07,3.8,0
+MIX2232614692,"Nespresso Intenso (India, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX2232614692,"Nespresso Intenso (India, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX2232614692,"Nespresso Intenso (India, Kazaar, Ristretto, Arpeggio, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX3458505641,"Nespresso Lungo Assortment (Linizio, Fortissio, Vivalto, Decaf Vivalto, Envivo)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX3458505641,"Nespresso Lungo Assortment (Linizio, Fortissio, Vivalto, Decaf Vivalto, Envivo)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX3458505641,"Nespresso Lungo Assortment (Linizio, Fortissio, Vivalto, Decaf Vivalto, Envivo)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX3458505641,"Nespresso Lungo Assortment (Linizio, Fortissio, Vivalto, Decaf Vivalto, Envivo)",5,5,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,19.1,0.00,£0.07,3.9,0
+MIX3458505641,"Nespresso Lungo Assortment (Linizio, Fortissio, Vivalto, Decaf Vivalto, Envivo)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19.1,0.00,£0.07,3.8,0
+MIX942793348,"Nespresso Variety Pack (Roma, Nicaragua, Livanto, Vivalto, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX942793348,"Nespresso Variety Pack (Roma, Nicaragua, Livanto, Vivalto, Arpeggio)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,18.7,0.00,£0.07,4.1,0
+MIX942793348,"Nespresso Variety Pack (Roma, Nicaragua, Livanto, Vivalto, Arpeggio)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,18.7,0.00,£0.07,3.8,0
+MIX942793348,"Nespresso Variety Pack (Roma, Nicaragua, Livanto, Vivalto, Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX942793348,"Nespresso Variety Pack (Roma, Nicaragua, Livanto, Vivalto, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.7,0.00,£0.07,3.6,0
+MIX9581848935,"Nespresso Variety Pack (Roma, Capriccio, Livanto, Arpeggio, Ristretto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX9581848935,"Nespresso Variety Pack (Roma, Capriccio, Livanto, Arpeggio, Ristretto)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX9581848935,"Nespresso Variety Pack (Roma, Capriccio, Livanto, Arpeggio, Ristretto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX9581848935,"Nespresso Variety Pack (Roma, Capriccio, Livanto, Arpeggio, Ristretto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX9581848935,"Nespresso Variety Pack (Roma, Capriccio, Livanto, Arpeggio, Ristretto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX7531208305,"Nespresso Variety Pack (Roma x4, Capriccio x4, Livanto x4, Arpeggio x4, Ristretto x4)",20,5,4,7640156771299,NO,Nespresso,Roma,3.6,14.4,72,0.00,£0.28,14.4,0
+MIX7531208305,"Nespresso Variety Pack (Roma x4, Capriccio x4, Livanto x4, Arpeggio x4, Ristretto x4)",20,5,4,7640156771213,NO,Nespresso,Capriccio,3.6,14.4,72,0.00,£0.28,14.4,0
+MIX7531208305,"Nespresso Variety Pack (Roma x4, Capriccio x4, Livanto x4, Arpeggio x4, Ristretto x4)",20,5,4,7640156771336,NO,Nespresso,Livanto,3.6,14.4,72,0.00,£0.28,14.4,0
+MIX7531208305,"Nespresso Variety Pack (Roma x4, Capriccio x4, Livanto x4, Arpeggio x4, Ristretto x4)",20,5,4,7640156771244,NO,Nespresso,Arpeggio,3.6,14.4,72,0.00,£0.28,14.4,0
+MIX7531208305,"Nespresso Variety Pack (Roma x4, Capriccio x4, Livanto x4, Arpeggio x4, Ristretto x4)",20,5,4,7640156771435,NO,Nespresso,Ristretto,3.6,14.4,72,0.00,£0.28,14.4,0
+MIX7635295348,"Nespresso Original Line (India x2, Ristretto x2, Arpeggio x2, Roma x2, Livanto x2)",10,5,2,7630039695187,NO,Nespresso,India,4.1,8.2,37,0.00,£0.14,8.2,0
+MIX7635295348,"Nespresso Original Line (India x2, Ristretto x2, Arpeggio x2, Roma x2, Livanto x2)",10,5,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,37,0.00,£0.14,7.2,0
+MIX7635295348,"Nespresso Original Line (India x2, Ristretto x2, Arpeggio x2, Roma x2, Livanto x2)",10,5,2,7640156771244,NO,Nespresso,Arpeggio,3.6,7.2,37,0.00,£0.14,7.2,0
+MIX7635295348,"Nespresso Original Line (India x2, Ristretto x2, Arpeggio x2, Roma x2, Livanto x2)",10,5,2,7640156771336,NO,Nespresso,Livanto,3.6,7.2,37,0.00,£0.14,7.2,0
+MIX7635295348,"Nespresso Original Line (India x2, Ristretto x2, Arpeggio x2, Roma x2, Livanto x2)",10,5,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,37,0.00,£0.14,7.2,0
+MIX902692083,"Nespresso Assorted (Volluto, Livanto, Capriccio, Roma, Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX902692083,"Nespresso Assorted (Volluto, Livanto, Capriccio, Roma, Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX902692083,"Nespresso Assorted (Volluto, Livanto, Capriccio, Roma, Arpeggio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX902692083,"Nespresso Assorted (Volluto, Livanto, Capriccio, Roma, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX902692083,"Nespresso Assorted (Volluto, Livanto, Capriccio, Roma, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX7439258009,"Nespresso Original Line (Nicaragua, India, Colombia, Fortissio, Livanto)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX7439258009,"Nespresso Original Line (Nicaragua, India, Colombia, Fortissio, Livanto)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX7439258009,"Nespresso Original Line (Nicaragua, India, Colombia, Fortissio, Livanto)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19.7,0.00,£0.07,3.8,0
+MIX7439258009,"Nespresso Original Line (Nicaragua, India, Colombia, Fortissio, Livanto)",5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,19.7,0.00,£0.07,4.1,0
+MIX7439258009,"Nespresso Original Line (Nicaragua, India, Colombia, Fortissio, Livanto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,19.7,0.00,£0.07,3.6,0
+MIX9065202721,"Nespresso Capsules (India, Ristretto, Roma, Arpeggio, Livanto)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,18.5,0.00,£0.07,4.1,0
+MIX9065202721,"Nespresso Capsules (India, Ristretto, Roma, Arpeggio, Livanto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX9065202721,"Nespresso Capsules (India, Ristretto, Roma, Arpeggio, Livanto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX9065202721,"Nespresso Capsules (India, Ristretto, Roma, Arpeggio, Livanto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX9065202721,"Nespresso Capsules (India, Ristretto, Roma, Arpeggio, Livanto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18.5,0.00,£0.07,3.6,0
+MIX2047473058,"Nespresso Variety Pack (Roma, Arpeggio, Ristretto, Capriccio, Livanto)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX2047473058,"Nespresso Variety Pack (Roma, Arpeggio, Ristretto, Capriccio, Livanto)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX2047473058,"Nespresso Variety Pack (Roma, Arpeggio, Ristretto, Capriccio, Livanto)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX2047473058,"Nespresso Variety Pack (Roma, Arpeggio, Ristretto, Capriccio, Livanto)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX2047473058,"Nespresso Variety Pack (Roma, Arpeggio, Ristretto, Capriccio, Livanto)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18,0.00,£0.07,3.6,0
+MIX7693725498,"Nespresso Master Origin Variety Pack (Columbia, Ethiopia, India, Indonesia, Nicargua)",5,5,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,20.5,0.00,£0.07,4.1,1
+MIX7693725498,"Nespresso Master Origin Variety Pack (Columbia, Ethiopia, India, Indonesia, Nicargua)",5,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,20.5,0.00,£0.07,4.1,1
+MIX7693725498,"Nespresso Master Origin Variety Pack (Columbia, Ethiopia, India, Indonesia, Nicargua)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,20.5,0.00,£0.07,4.1,1
+MIX7693725498,"Nespresso Master Origin Variety Pack (Columbia, Ethiopia, India, Indonesia, Nicargua)",5,5,1,7630039695187,NO,Nespresso,India,4.1,4.1,20.5,0.00,£0.07,4.1,1
+MIX7693725498,"Nespresso Master Origin Variety Pack (Columbia, Ethiopia, India, Indonesia, Nicargua)",5,5,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,20.5,0.00,£0.07,4.1,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,22.6,0.00,£0.07,3.6,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,22.6,0.00,£0.07,3.6,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,22.6,0.00,£0.07,4.1,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,22.6,0.00,£0.07,3.6,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,22.6,0.00,£0.07,4.1,1
+MIX3730313728,"Brazil & Colombia Mix (Capriccio, Ristretto, Colombia, Roma, Nicaragua, Volutto)",6,6,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,22.6,0.00,£0.07,3.6,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,7630039677909,NO,Vertuo,Odacio,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,SELF9792126228,NO,Vertuo,Intenso,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,7630039677886,NO,Vertuo,ELVAZIO,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX7767783112,"Vertuo Mug Selection (Stormio, Odacio, Intenso, Melozio, Elvazio, Giornio)",6,6,1,7630039678180,NO,Vertuo,Giornio,5.5,5.5,33,0.00,£0.07,5.5,1
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,26.4,0.00,£0.14,7.2,0
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,26.4,0.00,£0.07,3.6,0
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,26.4,0.00,£0.07,3.6,0
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,26.4,0.00,£0.07,3.8,0
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,26.4,0.00,£0.07,4.1,0
+MIX2319424620,"Nespresso Variety Pack (Volluto x2, Cosi, Linizio Lungo, Capriccio, Nicaragua, Ethiopia)",7,6,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,26.4,0.00,£0.07,4.1,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,36,0.00,£0.14,7.2,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,2,7640156771244,NO,Nespresso,Arpeggio,3.6,7.2,36,0.00,£0.14,7.2,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,36,0.00,£0.14,7.2,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36,0.00,£0.07,3.6,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36,0.00,£0.07,3.6,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36,0.00,£0.07,3.6,0
+MIX5264200448,"Nespresso Variety Pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto, Caprricio, Volluto, Cosi)",10,7,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36,0.00,£0.07,3.6,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,2,7640159925552,NO,Nespresso,Cosi,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,37.6,0.00,£0.14,7.6,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX3127506247,"Nespresso Variety Pack (Volluto x2, Cosi x2, Linizio x2, Ethopia, Decaf Volluto, Vivalto, Decaf Vivalto)",10,7,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,37.6,0.00,£0.07,3.9,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,2,7640159925552,NO,Nespresso,Cosi,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,37.6,0.00,£0.14,7.6,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,37.6,0.00,£0.07,3.6,0
+MIX4216127415,"Nespresso Variety Pack (Ethopia, Nicaragua, Cosi x2, Linizio x2, Volluto x2, Capriccio, Vivalto Lungo)",10,7,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,26,0.00,£0.07,3.8,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,26,0.00,£0.07,3.6,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,26,0.00,£0.07,3.6,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,26,0.00,£0.07,3.9,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,26,0.00,£0.07,3.6,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,26,0.00,£0.07,3.9,0
+MIX3010339484,"Nespresso Variety Pack (Kazaar, Napoli, Ristretto, Arpeggio, Decaf Ristretto, Roma, Decaf Arpeggio)",7,7,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,26,0.00,£0.07,3.6,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039677923,NO,Vertuo,Stormio,5.5,5.5,42.3,0.00,£0.07,5.5,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039677909,NO,Vertuo,Odacio,5.5,5.5,42.3,0.00,£0.07,5.5,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039677848,NO,Vertuo,Melozio,5.5,5.5,42.3,0.00,£0.07,5.5,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,42.3,0.00,£0.07,6,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,704407757498,NO,Vertuo,Caramel Cookie,6,6,42.3,0.00,£0.07,6,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039677862,NO,Vertuo,Vanilla Custard,6,6,42.3,0.00,£0.07,6,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,42.3,0.00,£0.07,3.9,0
+MIX3162226246,"Vertuoline Nespresso BEST OF 8 (STORMIO, ODACIO, MELOZIO, HAZELINO, CARAMELIZIO, VANIZIO, DIAVOLITTO, ALTISSIO)",8,8,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,42.3,0.00,£0.07,3.9,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7630039695187,NO,Nespresso,India,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,37.6,0.00,£0.07,3.6,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,37.6,0.00,£0.07,3.6,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,37.6,0.00,£0.07,3.6,0
+MIX7058952575,"Nespresso Variety Pack (Roma x2, Kazaar, Napoli, Ristretto, India, Arpeggio, Envivo, Fortissio, Indonesia)",10,9,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,37.5,0.00,£0.07,3.8,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,37.5,0.00,£0.07,3.9,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7630039695187,NO,Nespresso,India,4.1,4.1,37.5,0.00,£0.07,4.1,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,37.5,0.00,£0.07,4.1,0
+MIX4680379741,"Nespresso Pack (Ristretto, Capriccio, Livanto, Vivalto, Volluto, Arpeggio, Decaf Ristretto, India, Colombia, Napoli)",10,10,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,37.5,0.00,£0.07,3.6,0
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771244,,Nespresso,Arpeggio,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771213,,Nespresso,Capriccio,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771336,,Nespresso,Livanto,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771435,,Nespresso,Ristretto,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771299,,Nespresso,Roma,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771275,,Nespresso,Volluto,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640159925552,,Nespresso,Cosi,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7630030359729,,Nespresso,Envivo Lungo,3.8,0.76,11.94,0.00,£0.01,0.76,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640159924838,,Nespresso,Fortissio Lungo,3.8,0.76,11.94,0.00,£0.01,0.76,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771596,,Nespresso,Vivalto Lungo,3.8,0.76,11.94,0.00,£0.01,0.76,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7630039695569,,Nespresso,Ethiopia,4.1,0.82,11.94,0.00,£0.01,0.82,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7640156771473,,Nespresso,Kazaar,3.8,0.76,11.94,0.00,£0.01,0.76,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,SELF8155764730,NO,Nespresso,Napoli,3.6,0.72,11.94,0.00,£0.01,0.72,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7630030384585,,Nespresso,Decaf Ristretto,3.9,0.78,11.94,0.00,£0.01,0.78,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7630030322891,,Nespresso,Decaffeinato Arpeggio,3.9,0.78,11.94,0.00,£0.01,0.78,1
+MIX2087447015,"32 NESPRESSO CAPSULES Starter Pack, 2x FULL COFFEE RANGE",3.2,16,0.2,7630030322976,,Nespresso,Decaffeinato Volluto,3.8,0.76,11.94,0.00,£0.01,0.76,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678104,,Vertuo,Aflorazio,4.7,0.47,10.55,0.00,£0.01,0.47,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678005,,Vertuo,Altissio,3.9,0.39,10.55,0.00,£0.01,0.39,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039690113,,Vertuo,Alto Dolce,6.7,0.67,10.55,0.00,£0.01,0.67,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678081,,Vertuo,Arondio,4.9,0.49,10.55,0.00,£0.01,0.49,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039690090,,Vertuo,Alto Intenso,6.7,0.67,10.55,0.00,£0.01,0.67,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,704407757498,,Vertuo,Caramel Cookie,6,0.6,10.55,0.00,£0.01,0.6,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678128,,Vertuo,Decaffeinato Ontuoso,5.1,0.51,10.55,0.00,£0.01,0.51,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677947,,Vertuo,Decaffeinato,5.7,0.57,10.55,0.00,£0.01,0.57,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677985,,Vertuo,Diavolitto,3.9,0.39,10.55,0.00,£0.01,0.39,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677886,,Vertuo,ELVAZIO,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678067,,Vertuo,Fortado,4.9,0.49,10.55,0.00,£0.01,0.49,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678180,,Vertuo,Giornio,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039640958,,Vertuo,Hazelino Muffin,6,0.6,10.55,0.00,£0.01,0.6,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677848,,Vertuo,Melozio,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677909,,Vertuo,Odacio,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678203,,Vertuo,Solelio,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677923,,Vertuo,Stormio,5.5,0.55,10.55,0.00,£0.01,0.55,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039677862,,Vertuo,Vanilla Custard,6,0.6,10.55,0.00,£0.01,0.6,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678029,,Vertuo,Voltesso,3.9,0.39,10.55,0.00,£0.01,0.39,1
+MIX4049882722,Vertuo Assortment - 20,2,20,0.1,7630039678043,,Vertuo,Decaf Intenso,4.1,0.41,10.55,0.00,£0.01,0.41,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,75.6,0.00,£0.07,3.8,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,75.6,0.00,£0.07,3.9,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630039695187,NO,Nespresso,India,4.1,4.1,75.6,0.00,£0.07,4.1,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,75.6,0.00,£0.07,4.1,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,75.6,0.00,£0.07,4.1,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,75.6,0.00,£0.07,3.8,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,75.6,0.00,£0.07,3.8,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,75.6,0.00,£0.07,3.8,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,75.6,0.00,£0.07,4.1,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,75.6,0.00,£0.07,3.9,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,SELF6800561328,NO,Nespresso,Venezia,3.6,3.6,75.6,0.00,£0.07,3.6,1
+MIX4447429350,Nespresso Variety Pack (20 Different Blends),20,20,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,75.6,0.00,£0.07,3.8,1
+MIX3916314146,Nespresso Trio Pack 30 Capsules Pods (Livanto Volluto Capriccio),3,3,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX3916314146,Nespresso Trio Pack 30 Capsules Pods (Livanto Volluto Capriccio),3,3,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX3916314146,Nespresso Trio Pack 30 Capsules Pods (Livanto Volluto Capriccio),3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX6455494705,"50 Nespresso Intenso Mixed (Ristretto, Arpeggio, Kazaar, Napoli, Roma)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6455494705,"50 Nespresso Intenso Mixed (Ristretto, Arpeggio, Kazaar, Napoli, Roma)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6455494705,"50 Nespresso Intenso Mixed (Ristretto, Arpeggio, Kazaar, Napoli, Roma)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6455494705,"50 Nespresso Intenso Mixed (Ristretto, Arpeggio, Kazaar, Napoli, Roma)",5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,18.2,0.00,£0.07,3.8,1
+MIX6455494705,"50 Nespresso Intenso Mixed (Ristretto, Arpeggio, Kazaar, Napoli, Roma)",5,5,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX2004862765,"Nespresso Trio Pack (Roma, Livanto, Capriccio)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX2004862765,"Nespresso Trio Pack (Roma, Livanto, Capriccio)",3,3,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX2004862765,"Nespresso Trio Pack (Roma, Livanto, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.6,0.00,£0.07,3.6,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.6,0.00,£0.07,3.8,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.6,0.00,£0.07,3.8,1
+MIX5524923762,"100 Nespresso mix( Roma, Volluto, Capriccio, Livanto, Ristretto, Arpeggio, Cosi, Vivalto lungo, Fortissio lungo, Volluto decaf)",10,10,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,36.6,0.00,£0.07,3.8,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,2,7640156771244,NO,Nespresso,Arpeggio,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36,0.00,£0.07,3.6,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36,0.00,£0.07,3.6,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36,0.00,£0.07,3.6,1
+MIX8562674608,"100 Nespresso Variety pack (Ristretto x2, Arpeggio x2, Roma x2, Livanto x1, Capriccio x1, Volluto x1, Cosix1)",10,7,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36,0.00,£0.07,3.6,1
+MIX1966148425,"Vertuo Alto Selection (Alto Dolce, Alto Intenso)",2,2,1,7630039690113,NO,Vertuo,Alto Dolce,6.7,6.7,13.4,0.00,£0.07,6.7,1
+MIX1966148425,"Vertuo Alto Selection (Alto Dolce, Alto Intenso)",2,2,1,7630039690090,NO,Vertuo,Alto Intenso,6.7,6.7,13.4,0.00,£0.07,6.7,1
+MIX8167377708,"Vertuo Double Espresso Selection (Chiaro, Scuro)",2,2,1,SELF6215371813,NO,Vertuo,Double Espresso Chairo,4.9,4.9,9.8,0.00,£0.07,4.9,1
+MIX8167377708,"Vertuo Double Espresso Selection (Chiaro, Scuro)",2,2,1,SELF6982204001,NO,Vertuo,DOUBLE ESPRESSO SCURO,4.9,4.9,9.8,0.00,£0.07,4.9,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210435682,,Tassimo,Kenco Americano Grande,3.6,0.36465,7.36365,0.00,0,0.365,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210368423,,Tassimo,TASSIMO Morning Cafe,3,0.29665,7.36365,0.00,0,0.297,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210010605,,Tassimo,CAFE HAG,3.1,0.31365,7.36365,0.00,0,0.314,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300719401,,Tassimo,TWININGS EARL GREY,3.1,0.31365,7.36365,0.00,0,0.314,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300719418,,Tassimo,TWININGS FRUITS OF THE FOREST TEA,3.1,0.31365,7.36365,0.00,0,0.314,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300718367,,Tassimo,TWININGS GREEN TEA AND MINT,3.1,0.31365,7.36365,0.00,0,0.314,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300719487,,Tassimo,TASSIMO CREAMER FROM MILK,3.3,0.33065,7.36365,0.00,0,0.331,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210011152,,Tassimo,CARTE NOIRE Cafe Long Aromatique,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210011114,,Tassimo,Carte Noire Cafe Long Delicat,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,SELF8187514270,,Tassimo,CARTE NOIRE Decaffeinated Espresso,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,SELF1215670292,,Tassimo,Carte Noire Expresso Intense,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,SELF965753668,,Tassimo,CARTE NOIRE Expresso,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210452276,,Tassimo,CARTE NOIRE Petit Dejeuner,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,SELF3436497813,,Tassimo,Carte Noire Petit Dejeuner XL,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,8711000504833,,Tassimo,Jacobs Caffe Crema Intenso,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210020055,,Tassimo,JACOBS Espresso,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210010346,,Tassimo,JACOBS Monarch,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300047031,,Tassimo,KENCO CAFFE CREMA,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300047030,,Tassimo,KENCO Americano Smooth,3.7,0.369,7.36365,0.00,0,0.369,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300277802,,Tassimo,KENCO PURE COLOMBIAN,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622300127732,,Tassimo,SUCHARD HOT CHOCOLATE,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX2087504724,22 Tassimo T Discs Pods Variety Pack,22,22,0.1,7622210018069,,Tassimo,TWININGS Apres-Midi d'Orient,3.4,0.33915,7.36365,0.00,0,0.339,1
+MIX812719955,"30 Nespresso mix (Chiaro, Sucro, Corto)",3,3,1,7630047675904,NO,Nespresso,Barista Chiaro,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX812719955,"30 Nespresso mix (Chiaro, Sucro, Corto)",3,3,1,7630054457104,NO,Nespresso,Barista Scuro,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX812719955,"30 Nespresso mix (Chiaro, Sucro, Corto)",3,3,1,7630047675805,NO,Nespresso,Barista Corto,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX3879371588,"50 Nespresso Mixed Set ( Volluto, Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3879371588,"50 Nespresso Mixed Set ( Volluto, Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3879371588,"50 Nespresso Mixed Set ( Volluto, Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3879371588,"50 Nespresso Mixed Set ( Volluto, Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3879371588,"50 Nespresso Mixed Set ( Volluto, Capriccio, Livanto, Roma, Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3336083713,"Nespresso mixed (Volluto decaf x1, Arpeggio decaf x1, Vivalto decaf x 1, Ristretto decaf x1)",4,4,1,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,3.9,15.5,0.00,£0.07,3.9,1
+MIX3336083713,"Nespresso mixed (Volluto decaf x1, Arpeggio decaf x1, Vivalto decaf x 1, Ristretto decaf x1)",4,4,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,15.5,0.00,£0.07,3.9,1
+MIX3336083713,"Nespresso mixed (Volluto decaf x1, Arpeggio decaf x1, Vivalto decaf x 1, Ristretto decaf x1)",4,4,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,15.5,0.00,£0.07,3.8,1
+MIX3336083713,"Nespresso mixed (Volluto decaf x1, Arpeggio decaf x1, Vivalto decaf x 1, Ristretto decaf x1)",4,4,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,15.5,0.00,£0.07,3.9,1
+MIX588331076,"Nespresso mixed (Linzio Lungo x1, Fortissio Lungo x 2, Vivalto Lungox 1 )",4,3,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,1
+MIX588331076,"Nespresso mixed (Linzio Lungo x1, Fortissio Lungo x 2, Vivalto Lungox 1 )",4,3,2,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,7.6,15.2,0.00,£0.14,7.6,1
+MIX588331076,"Nespresso mixed (Linzio Lungo x1, Fortissio Lungo x 2, Vivalto Lungox 1 )",4,3,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,15.2,0.00,£0.07,3.8,1
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,2,7640159925552,NO,Nespresso,Cosi,3.6,7.2,37.6,0.00,£0.14,7.2,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,37.6,0.00,£0.14,7.6,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,37.6,0.00,£0.07,3.9,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,37.6,0.00,£0.07,3.8,0
+MIX1198875443,"Nespresso Mixed Pack( Volluto x 2, Cosi x 2, Linizio Lungo x 2, Vivalto Lungo Decaf x 1, Vivalto Lungox 1, Volluto Decaf x 1, Ethopia x 1)",10,7,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,37.6,0.00,£0.07,4.1,0
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,37.6,0.00,£0.07,4.1,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,37.6,0.00,£0.07,4.1,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,2,7640159925552,NO,Nespresso,Cosi,3.6,7.2,37.6,0.00,£0.14,7.2,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,2,7640154061569,NO,Nespresso,Linizio Lungo,3.8,7.6,37.6,0.00,£0.14,7.6,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,37.6,0.00,£0.14,7.2,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,37.6,0.00,£0.07,3.6,1
+MIX2622502341,"Nespresso Mixed (Ethiopia x 1, Nicaragua x 1, Cosi x 2, Linzio Lungo x 2, Volluto x 2, Capriccio x 1, Vivalto lungo x 1)",10,7,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,37.6,0.00,£0.07,3.8,1
+MIX3665845376,"70 Nespresso Mixed (Volluto x 2, Cosi x 1, Vivalto Lungo x 2, Linzio Lungo x 1, Ethiopia x 1)",7,5,2,7640156771275,NO,Nespresso,Volluto,3.6,7.2,26.3,0.00,£0.14,7.2,1
+MIX3665845376,"70 Nespresso Mixed (Volluto x 2, Cosi x 1, Vivalto Lungo x 2, Linzio Lungo x 1, Ethiopia x 1)",7,5,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,26.3,0.00,£0.07,3.6,1
+MIX3665845376,"70 Nespresso Mixed (Volluto x 2, Cosi x 1, Vivalto Lungo x 2, Linzio Lungo x 1, Ethiopia x 1)",7,5,2,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,7.6,26.3,0.00,£0.14,7.6,1
+MIX3665845376,"70 Nespresso Mixed (Volluto x 2, Cosi x 1, Vivalto Lungo x 2, Linzio Lungo x 1, Ethiopia x 1)",7,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,26.3,0.00,£0.07,3.8,1
+MIX3665845376,"70 Nespresso Mixed (Volluto x 2, Cosi x 1, Vivalto Lungo x 2, Linzio Lungo x 1, Ethiopia x 1)",7,5,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,26.3,0.00,£0.07,4.1,1
+MIX739289100,"30 Nespresso (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX739289100,"30 Nespresso (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX739289100,"30 Nespresso (Ristretto, Arpeggio, Capriccio)",3,3,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX4830612269,"30 NESPRESSO (VANILLO,CIOCATTINO,CARAMELITO)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX4830612269,"30 NESPRESSO (VANILLO,CIOCATTINO,CARAMELITO)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX4830612269,"30 NESPRESSO (VANILLO,CIOCATTINO,CARAMELITO)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX4881189733,"30 Nespresso ( Roma, Arpeggio, Ristretto)",3,3,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX4881189733,"30 Nespresso ( Roma, Arpeggio, Ristretto)",3,3,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX4881189733,"30 Nespresso ( Roma, Arpeggio, Ristretto)",3,3,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,10.8,0.00,£0.07,3.6,1
+MIX9576137755,"50 Nespresso mixed (Carmelito ,Vanilio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,20.6,0.00,£0.07,4.3,1
+MIX9576137755,"50 Nespresso mixed (Carmelito ,Vanilio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,20.6,0.00,£0.07,4.3,1
+MIX9576137755,"50 Nespresso mixed (Carmelito ,Vanilio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,20.6,0.00,£0.07,4.3,1
+MIX9576137755,"50 Nespresso mixed (Carmelito ,Vanilio, Ciocattino, Nicaragua, Volluto)",5,5,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,20.6,0.00,£0.07,4.1,1
+MIX9576137755,"50 Nespresso mixed (Carmelito ,Vanilio, Ciocattino, Nicaragua, Volluto)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,20.6,0.00,£0.07,3.6,1
+MIX6398876511,"40 Nespresso Mixed (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,14.4,0.00,£0.07,3.6,1
+MIX6398876511,"40 Nespresso Mixed (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,14.4,0.00,£0.07,3.6,1
+MIX6398876511,"40 Nespresso Mixed (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,14.4,0.00,£0.07,3.6,1
+MIX6398876511,"40 Nespresso Mixed (Livanto, Capriccio, Volluto, Cosi)",4,4,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,14.4,0.00,£0.07,3.6,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,26.6,0.00,£0.07,3.6,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,26.6,0.00,£0.07,3.6,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,26.6,0.00,£0.07,3.9,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,3.8,26.6,0.00,£0.07,3.8,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,26.6,0.00,£0.07,3.8,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,26.6,0.00,£0.07,3.8,1
+MIX6211073233,"70 Nespresso mixed variety (Volluto, COSI, Vivalto Decaf, Volluto Decaf, Vivalto lungo, Linzio lungo, Ethiopia)",7,7,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,26.6,0.00,£0.07,4.1,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,39.6,0.00,£0.07,3.8,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,39.6,0.00,£0.07,3.8,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,39.6,0.00,£0.07,4.1,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630039695460,NO,Nespresso,Nicaragua,4.1,4.1,39.6,0.00,£0.07,4.1,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630039695187,NO,Nespresso,India,4.1,4.1,39.6,0.00,£0.07,4.1,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630039695668,NO,Nespresso,Colombia,4.1,4.1,39.6,0.00,£0.07,4.1,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,39.6,0.00,£0.07,3.8,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,5251120989941,NO,Nespresso,Decaffeinato Vivalto Lungo,3.9,3.9,39.6,0.00,£0.07,3.9,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,39.6,0.00,£0.07,3.8,1
+MIX265053640,"100 Nespresso Mixed (India, Indonesia, Nicaragua ,Ethiopia, Colombia, Envivo Lungo, Fortissio Lungo, Vivalto Lungo, Linizio Lungo, Vivalto Lungo Decaffeinato)",10,10,1,7630039695088,NO,Nespresso,Indonesia,4.1,4.1,39.6,0.00,£0.07,4.1,1
+MIX6260673650,"50 Pack Nespresso Decaffeinato Variety (2 x Decaffeinato Arpeggio, Decaffeinato Ristretto, 2 x Decaffeinato Volluto)",5,3,2,7630030322891,NO,Nespresso,Decaffeinato Arpeggio,3.9,7.8,19.3,0.00,£0.14,7.8,1
+MIX6260673650,"50 Pack Nespresso Decaffeinato Variety (2 x Decaffeinato Arpeggio, Decaffeinato Ristretto, 2 x Decaffeinato Volluto)",5,3,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,19.3,0.00,£0.07,3.9,1
+MIX6260673650,"50 Pack Nespresso Decaffeinato Variety (2 x Decaffeinato Arpeggio, Decaffeinato Ristretto, 2 x Decaffeinato Volluto)",5,3,2,7630030322976,NO,Nespresso,Decaffeinato Volluto,3.8,7.6,19.3,0.00,£0.14,7.6,1
+MIX5272433421,Nespresso Variety Pack 100 Capsules for Original line,10,5,2,7640156771244,NO,Nespresso,Arpeggio,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX5272433421,Nespresso Variety Pack 100 Capsules for Original line,10,5,2,7640156771213,NO,Nespresso,Capriccio,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX5272433421,Nespresso Variety Pack 100 Capsules for Original line,10,5,2,7640156771336,NO,Nespresso,Livanto,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX5272433421,Nespresso Variety Pack 100 Capsules for Original line,10,5,2,7640156771299,NO,Nespresso,Roma,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX5272433421,Nespresso Variety Pack 100 Capsules for Original line,10,5,2,7640156771435,NO,Nespresso,Ristretto,3.6,7.2,36,0.00,£0.14,7.2,1
+MIX564766974,Nespresso Vertuo line Decaf Intenso Flavor Coffee 2 Sleeves 20 Capsules,2,1,2,7630039678043,NO,Vertuo,Decaf Intenso,4.1,8.2,8.2,0.00,£0.14,8.2,1
+MIX2318514213,10 Capsules Nespresso VertuoLine Decaffeinato Coffee,1,1,1,7630039677947,NO,Vertuo,Decaffeinato,5.7,5.7,5.7,0.00,£0.07,5.7,1
+MIX6363335561,"50 Nespresso mixed Variety ( Roma x1, Ristretto x1, Fortissio lungo x1, Arpeggio x1 Volluto x1)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6363335561,"50 Nespresso mixed Variety ( Roma x1, Ristretto x1, Fortissio lungo x1, Arpeggio x1 Volluto x1)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6363335561,"50 Nespresso mixed Variety ( Roma x1, Ristretto x1, Fortissio lungo x1, Arpeggio x1 Volluto x1)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6363335561,"50 Nespresso mixed Variety ( Roma x1, Ristretto x1, Fortissio lungo x1, Arpeggio x1 Volluto x1)",5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6363335561,"50 Nespresso mixed Variety ( Roma x1, Ristretto x1, Fortissio lungo x1, Arpeggio x1 Volluto x1)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,18.2,0.00,£0.07,3.8,1
+MIX3454178707,"NESPRESSO Espresso Assorted 50 Capsules (1 x Volluto Capsules, 1 x Livanto, 1x Capriccio, 1 x Roma, 1 x Arpeggio)",5,5,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3454178707,"NESPRESSO Espresso Assorted 50 Capsules (1 x Volluto Capsules, 1 x Livanto, 1x Capriccio, 1 x Roma, 1 x Arpeggio)",5,5,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3454178707,"NESPRESSO Espresso Assorted 50 Capsules (1 x Volluto Capsules, 1 x Livanto, 1x Capriccio, 1 x Roma, 1 x Arpeggio)",5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3454178707,"NESPRESSO Espresso Assorted 50 Capsules (1 x Volluto Capsules, 1 x Livanto, 1x Capriccio, 1 x Roma, 1 x Arpeggio)",5,5,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX3454178707,"NESPRESSO Espresso Assorted 50 Capsules (1 x Volluto Capsules, 1 x Livanto, 1x Capriccio, 1 x Roma, 1 x Arpeggio)",5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18,0.00,£0.07,3.6,1
+MIX989102331,Nespresso OriginalLine: Variety Strong Mix (1 x Napoli; 1 x Kazaar; 1 x Ristretto; 1 x Arpeggio; 1 x Roma),5,5,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX989102331,Nespresso OriginalLine: Variety Strong Mix (1 x Napoli; 1 x Kazaar; 1 x Ristretto; 1 x Arpeggio; 1 x Roma),5,5,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,18.2,0.00,£0.07,3.8,1
+MIX989102331,Nespresso OriginalLine: Variety Strong Mix (1 x Napoli; 1 x Kazaar; 1 x Ristretto; 1 x Arpeggio; 1 x Roma),5,5,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX989102331,Nespresso OriginalLine: Variety Strong Mix (1 x Napoli; 1 x Kazaar; 1 x Ristretto; 1 x Arpeggio; 1 x Roma),5,5,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX989102331,Nespresso OriginalLine: Variety Strong Mix (1 x Napoli; 1 x Kazaar; 1 x Ristretto; 1 x Arpeggio; 1 x Roma),5,5,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,18.2,0.00,£0.07,3.6,1
+MIX6072305979,"Nespresso OriginalLine: Barista Creations Pack (1 x Caramel, 1 x Cocoa Truffle, 1 x Vanillia)",3,3,1,7640154062023,NO,Nespresso,Caramel Creme Brulee,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX6072305979,"Nespresso OriginalLine: Barista Creations Pack (1 x Caramel, 1 x Cocoa Truffle, 1 x Vanillia)",3,3,1,7640154061804,NO,Nespresso,Cocoa Truffle,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX6072305979,"Nespresso OriginalLine: Barista Creations Pack (1 x Caramel, 1 x Cocoa Truffle, 1 x Vanillia)",3,3,1,7640154061866,NO,Nespresso,Vanilla Eclair,4.3,4.3,12.9,0.00,£0.07,4.3,1
+MIX6509747461,"40 Nespresso mix (10 x Kazaar,10 x Napoli,10 x Ristretto,10 x Roma)",4,4,1,7640156771473,NO,Nespresso,Kazaar,3.8,3.8,14.6,0.00,£0.07,3.8,1
+MIX6509747461,"40 Nespresso mix (10 x Kazaar,10 x Napoli,10 x Ristretto,10 x Roma)",4,4,1,SELF8155764730,NO,Nespresso,Napoli,3.6,3.6,14.6,0.00,£0.07,3.6,1
+MIX6509747461,"40 Nespresso mix (10 x Kazaar,10 x Napoli,10 x Ristretto,10 x Roma)",4,4,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,14.6,0.00,£0.07,3.6,1
+MIX6509747461,"40 Nespresso mix (10 x Kazaar,10 x Napoli,10 x Ristretto,10 x Roma)",4,4,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,14.6,0.00,£0.07,3.6,1
+MIX7591708526,"Nespresso World Explorations Pack: (1 x ENVIVO LUNGO, 1 x FORTISSIO LUNGO, 1 x LINIZIO LUNGO, 1 x SHANGHAI LUNGO, 1 x BUENOS AIRES LUNGO)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX7591708526,"Nespresso World Explorations Pack: (1 x ENVIVO LUNGO, 1 x FORTISSIO LUNGO, 1 x LINIZIO LUNGO, 1 x SHANGHAI LUNGO, 1 x BUENOS AIRES LUNGO)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX7591708526,"Nespresso World Explorations Pack: (1 x ENVIVO LUNGO, 1 x FORTISSIO LUNGO, 1 x LINIZIO LUNGO, 1 x SHANGHAI LUNGO, 1 x BUENOS AIRES LUNGO)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX7591708526,"Nespresso World Explorations Pack: (1 x ENVIVO LUNGO, 1 x FORTISSIO LUNGO, 1 x LINIZIO LUNGO, 1 x SHANGHAI LUNGO, 1 x BUENOS AIRES LUNGO)",5,5,1,SELF8848843175,NO,Nespresso,Shanghai Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX7591708526,"Nespresso World Explorations Pack: (1 x ENVIVO LUNGO, 1 x FORTISSIO LUNGO, 1 x LINIZIO LUNGO, 1 x SHANGHAI LUNGO, 1 x BUENOS AIRES LUNGO)",5,5,1,SELF9120920611,NO,Nespresso,Buenos Aires Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX1824094407,NESPRESSO BARISTA CORTO BARISTA SCURO BARISTA CHIARO (1 sleeve each) TOTAL 30 CAPSULES. LISTING IMAGE WRONG,3,3,1,7630047675805,NO,Nespresso,Barista Corto,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX1824094407,NESPRESSO BARISTA CORTO BARISTA SCURO BARISTA CHIARO (1 sleeve each) TOTAL 30 CAPSULES. LISTING IMAGE WRONG,3,3,1,7630054457104,NO,Nespresso,Barista Scuro,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX1824094407,NESPRESSO BARISTA CORTO BARISTA SCURO BARISTA CHIARO (1 sleeve each) TOTAL 30 CAPSULES. LISTING IMAGE WRONG,3,3,1,7630047675904,NO,Nespresso,Barista Chiaro,4.1,4.1,12.3,0.00,£0.07,4.1,1
+MIX5161802586,"Nespresso World Explorations Pack: ( 1x VIVALTO LUNGO, 1 x LINIZIO LUNGO, 1 x FORTISSIO LUNGO, 1 x ENVIVO LUNGO, 1 x SHANGHAI LUNGO)",5,5,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX5161802586,"Nespresso World Explorations Pack: ( 1x VIVALTO LUNGO, 1 x LINIZIO LUNGO, 1 x FORTISSIO LUNGO, 1 x ENVIVO LUNGO, 1 x SHANGHAI LUNGO)",5,5,1,7640154061569,NO,Nespresso,Linizio Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX5161802586,"Nespresso World Explorations Pack: ( 1x VIVALTO LUNGO, 1 x LINIZIO LUNGO, 1 x FORTISSIO LUNGO, 1 x ENVIVO LUNGO, 1 x SHANGHAI LUNGO)",5,5,1,SELF8848843175,NO,Nespresso,Shanghai Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX5161802586,"Nespresso World Explorations Pack: ( 1x VIVALTO LUNGO, 1 x LINIZIO LUNGO, 1 x FORTISSIO LUNGO, 1 x ENVIVO LUNGO, 1 x SHANGHAI LUNGO)",5,5,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX5161802586,"Nespresso World Explorations Pack: ( 1x VIVALTO LUNGO, 1 x LINIZIO LUNGO, 1 x FORTISSIO LUNGO, 1 x ENVIVO LUNGO, 1 x SHANGHAI LUNGO)",5,5,1,7630030359729,NO,Nespresso,Envivo Lungo,3.8,3.8,19,0.00,£0.07,3.8,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX3101319490,Nespresso Variety Capsules (Pack of 100),10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,36.7,0.00,£0.07,3.9,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX5520440396,nespresso original line capsules 100 count variety pack capsules mixed flavors,10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,36.7,0.00,£0.07,3.9,1
+MIX7694467667,"Nespresso VertuoLine Bold Assortment (2 x Diavolitto, 2 x Altissio)",2,2,1,7630039677985,NO,Vertuo,Diavolitto,3.9,3.9,7.8,0.00,£0.07,3.9,1
+MIX7694467667,"Nespresso VertuoLine Bold Assortment (2 x Diavolitto, 2 x Altissio)",2,2,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,7.8,0.00,£0.07,3.9,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,7630039640958,NO,Vertuo,Hazelino Muffin,6,6,42.1,0.00,£0.07,6,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,7630039695569,NO,Nespresso,Ethiopia,4.1,4.1,42.1,0.00,£0.07,4.1,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,SELF7129259557,NO,Vertuo,Vertuo Colombia,6,6,42.1,0.00,£0.07,6,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,SELF8992208499,NO,Vertuo,Bianco Forte,6,6,42.1,0.00,£0.07,6,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,7630039677947,NO,Vertuo,Decaffeinato,5.7,5.7,42.1,0.00,£0.07,5.7,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,SELF6982204001,NO,Vertuo,DOUBLE ESPRESSO SCURO,4.9,4.9,42.1,0.00,£0.07,4.9,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,7630039678005,NO,Vertuo,Altissio,3.9,3.9,42.1,0.00,£0.07,3.9,1
+MIX8018375315,"Coffee Nespresso Vertuo Espresso Selection (1 x Hazelino, 1x Ethiopia, 1 x Colombia, 1 x Bianco Forte, 1 x Decaffeinato, 1 x Scuro, 1 x Altissio, , 1 x Elvazio 80 Capsules)",8,8,1,7630039677886,NO,Vertuo,ELVAZIO,5.5,5.5,42.1,0.00,£0.07,5.5,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771244,NO,Nespresso,Arpeggio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771213,NO,Nespresso,Capriccio,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640159925552,NO,Nespresso,Cosi,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7630030384585,NO,Nespresso,Decaf Ristretto,3.9,3.9,36.7,0.00,£0.07,3.9,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640159924838,NO,Nespresso,Fortissio Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771336,NO,Nespresso,Livanto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771435,NO,Nespresso,Ristretto,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771299,NO,Nespresso,Roma,3.6,3.6,36.7,0.00,£0.07,3.6,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771596,NO,Nespresso,Vivalto Lungo,3.8,3.8,36.7,0.00,£0.07,3.8,1
+MIX8242080420,"Nespresso 100 Mix (Arpegio, Roma, Capriccio, Ristretto, Livanto, Volluto, Cosi, Vivalto Lungo, Fortissio Lungo, Decaf Ristretto)",10,10,1,7640156771275,NO,Nespresso,Volluto,3.6,3.6,36.7,0.00,£0.07,3.6,1
